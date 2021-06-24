@@ -1,0 +1,4858 @@
+linkedin-01 
+
+Peter Saalbrink
+
+Data Scientist at Matrixian Group
+Amsterdam
+
+Experience
+Matrixian Group
+2 years 4 months
+Data Scientist
+April 2019 - Present (2 years 2 months)
+Amsterdam Area, Netherlands
+Data Scientist at The Data Science Company, where I participate in open data
+projects and provide insights in data quality.
+
+Data Science Trainee
+February 2019 - March 2019 (2 months)
+Amsterdam Area, Netherlands
+Traineeship at The Data Science Company, where I'm educated in data
+collection and analysis, data science, business impact, and agile soft skills.
+
+Peter Saalbrink
+Bookkeeper
+October 2018 - January 2019 (4 months)
+Amersfoort, the Netherlands
+Financial administration of several cultural organizations.
+
+Coffeecompany
+Barista
+April 2018 - January 2019 (10 months)
+Amsterdam Area, Netherlands
+
+University of Amsterdam
+Research Intern
+March 2017 - September 2017 (7 months)
+Amsterdam Area, Netherlands
+Research project were I piloted and executed a study of rhytmic predictability
+and periodicity using EEG, titled 'Timing mechanisms and temporal
+expectations in music. Internship (36 ECTS) with Fleur Bouwer, PhD, & dr.
+Heleen Slagter, Univeristy of Amsterdam.
+
+Academie van de Stad Uitzendbureau
+Researcher
+November 2016 - March 2017 (5 months)
+Amsterdam
+Socially involved project for the City of Amsterdam, researching behavior of
+visitors and tourists in the Red Light District.
+
+AMC - Academisch Medisch Centrum
+Research Intern
+August 2016 - March 2017 (8 months)
+Internship: Biological markers of psychosis. Modeling cortisol levels, dopamine
+function and psychotic symptoms in patients with 22q11 deletion syndrome
+(32 ECTS), prof. dr. Jan Booij & Esther van Duin MSc, Maastricht University &
+AMC Amsterdam.
+Tasks and responsibilities: managing patient contact, data gathering and
+analysis.
+Projects: research day w/ poster presentation.
+
+Academie van de Stad Uitzendbureau
+Researcher
+May 2016 - July 2016 (3 months)
+Amsterdam
+Socially involved project for a housing corporation, researching (the lack of)
+social cohesiveness in an Amsterdam-Zuidoost neighborhood.
+
+ASVA Studentenunie
+Treasurer
+September 2014 - September 2015 (1 year 1 month)
+ASVA student union represents 105,000 students in Amsterdam. Five board
+members,
+twenty-five student employees and fifty active members fight for the interests
+of these students. They do this both by organizing events and by offering
+services and through active lobbying in the field of education, student housing
+and student life.
+
+Cognito Student Union
+Treasurer
+October 2013 - September 2014 (1 year)
+Amsterdam Area, Netherlands
+
+Ditmeijers' Telemarketing & Datamanagement BV
+4 years 11 months
+Coach Telemarketing
+February 2012 - July 2014 (2 years 6 months)
+Amsterdam Area, Netherlands
+Coaching and guiding marketers in carrying out their jobs. Training marketers
+on new projects. Leading and monitoring the team of marketers to achieve
+higher goals. Independent executive function.
+
+Telemarketeer
+September 2009 - February 2012 (2 years 6 months)
+
+Studentenpartij LIEF
+Vice chairman and secretary
+November 2012 - April 2014 (1 year 6 months)
+
+Education
+University of Amsterdam
+Master of Science (MSc), Brain and Cognitive Sciences · (2013 - 2018)
+Universiteit van Amsterdam
+Bachelor of Science (BSc), Beta-gamma (major Psychobiology) · (2009 - 2013)
+Alberdingk Thijm College, Hilversum, Netherlands
+VWO, N&T · (2003 - 2009)
+
+Contact
+www.linkedin.com/in/petersaalbrink
+(LinkedIn)
+facebook.com/petersaalbrink
+(Personal)
+Top Skills
+Dutch
+English
+SPSS
+Languages
+English (Full Professional)
+Dutch (Native or Bilingual)
+
+Certifications 
+PANSS
+Power Searching 
+Sneltypen
+
+linkedin-02 
+
+Erik Bruin
+Data scientist at Coney | Kaggle Master
+Amsterdam
+Summary
+Please also have a look at my Kaggle (a Google company) profile:
+https://www.kaggle.com/erikbruin.
+I am a Kaggle Master and have won the PASSNCY competition
+which was part of Kaggle's "Data Science for Good" program.
+
+Experience
+Coney
+Data Scientist
+2019 - Present (2 years)
+Amsterdam Area, Netherlands
+
+Cofely NV the Netherlands (onderdeel van GDF SUEZ).
+Business Analyst/Consultant ICT
+2016 - 2016 (less than a year)
+Zaandam
+
+Ziggo B.V.
+Senior Business Analyst UPC Business
+2013 - 2014 (1 year)
+Amsterdam Area, Netherlands
+- Data analysis
+- Marketing Intelligence
+- Project Manager CEM (Customer Experience Management)
+
+Hogeschool van Amsterdam
+Lecturer Business Administration & Technology (Bedrijfskunde)
+2010 - 2012 (2 years)
+
+IDC
+Research Manager, Western Europe,
+2001 - 2009 (8 years)
+Research Manager European Business Solution services. SCM, CRM, ERP
+services (consulting, systems integration).
+
+Education
+Eindhoven University of Technology
+Master's, Business Administration
+
+Contact
+www.linkedin.com/in/
+erikbruinalkmaar (LinkedIn)
+www.kaggle.com/erikbruin (Other)
+Top Skills
+Data Science
+R
+Python (Programming Language)
+
+Languages 
+English (Full Professional)
+German (Limited Working)
+Spanish (Limited Working) 
+
+Certifications
+Practical Machine Learning in R
+Getting and Cleaning Data in R
+Data Visualization with Tableau
+Probability and Data with R
+Bayesian Statistics with R
+
+linkedin-03 
+
+Abouzar Abbaspour
+Data Scientist/Data Engineer
+’s-Hertogenbosch
+
+Summary
+I am a fullstack developer/ Data Scientist/ Data Engineer
+I had many projects in different companies as a junior and senior
+software engineer and data engineer, currently i'm focusing on data
+science and data engineering.
+I like to be part of Startups as well, and interested in turning ideas to
+work.
+My main topics of interest are;
+Data analytics and machine learning
+Data Engineering and big Data solutions
+Data visualization on big data
+SOA Design And development
+SNA analysis and graph modeling
+churn and social network analysis
+skilled in Java , C++, C#, Python, Distributed Systems , Hadoop,
+Hbase, Hive ,SQL and NoSQL
+
+Experience
+Efteling
+Data Scientist/ Data Engineer
+September 2019 - Present (1 year 9 months)
+Forecasting Projects for visitor prediction
+Developing lifecycle of ML Models (deployment, evaluation, monitoring,
+management)
+Building end to end recommendation engine
+Prediction model for attractions' waiting time
+Prediction model for transactions data
+Data engineering/ building data pipeline
+App development
+Jheronimus Academy of Data Science
+Professional Doctorate in Engineering in Data Science
+May 2018 - June 2020 (2 years 2 months)
+Eindhoven Area, Netherlands
+Designing and developing data science projects for industry.
+:
+• : Rok: Prediction of crowdedness, and end to end recommendation engine for
+visitors.
+• : Solar potential assessment from satellite images.
+• : Walking behavior of turkeys based on IMU sensor data: a feature extraction
+perspective.
+• : Enhancing the Management of Buildings through Visualization of Sensor
+Data.
+• -: Improving Data Accessibility of Intoxication Dataset.
+• : Geographical Prediction of Whooping Cough in Limburg.
+:
+• : Predictive maintenance.
+• : Anomaly in Water Usage: Definition, Detection, and Notification.
+• : Sales forecast.
+:
+• Deltares
+:
+• GGD
+• DAF Paccar
+
+Netgat Solution
+Co-Founder
+October 2015 - October 2018 (3 years 1 month)
+Tehran Province, Iran
+Data Architect/ Data Engineer/ GIS Dev/ Android Dev
+
+Mobile Communication Company of Iran(MCCI)
+OSS & TOOLS - Senior Software Engineer/ Data Engineer
+October 2013 - June 2018 (4 years 9 months)
+Tehran
+Software Eng/ DevOps/ Data Engineer
+Asre Danesh Afzar
+Android Developer, Software Tester
+2012 - 2013 (1 year)
+Tehran
+Part time Android developer, Software Tester
+
+Education
+Eindhoven University of Technology
+Professional Doctorate, Data Science · (2018 - 2020)
+University of Tehran
+MSc, Computer Software Engineering · (2012 - 2014)
+Islamic Azad University
+Bachelor's degree, Computer Software Engineering · (2008 - 2012)
+
+Contact
+www.linkedin.com/in/abouzar-
+abbaspour (LinkedIn)
+
+Top Skills
+Data Science
+Software Engineering
+Machine Learning
+
+Languages
+English (Native or Bilingual)
+Persian (Native or Bilingual)
+German (Limited Working)
+
+Certifications
+Architecting with Google Kubernetes
+Engine - Google Cloud
+Applied Machine Learning in Python
+- University of Michigan
+Fundamentals of Scalable Data
+Science - IBM
+Semantic Segmentation with
+Amazon Sagemaker
+Preparing for the Google Cloud
+Professional Data Engineer Exam
+
+Honors-Awards
+Winner of Tehran Startup Weekend
+(Iran/Tehran)
+Winner of Startup Talent MCI (Iran/
+Tehran)
+Winner of Hackathon for Peace,
+Justice and Security (the
+Netherlands/Den Haag)
+Winner of Hackthecrisis NL
+hackathon
+Winner of Irancell Android
+programming competition- ICMA
+
+Publications 
+Behavioral Analysis of Iranian Users
+in a Mobile Social Network API development
+Automated step detection in inertial
+measurement unit data from turkeys
+
+
+linkedin-04
+
+Eva van Brummelen
+Data Scientist bij Dienst Testen COVID-19 (via Always be learning)
+bij Ministerie van Volksgezondheid, Welzijn en Sport
+The Randstad, Netherlands
+
+Experience
+Ministerie van Volksgezondheid, Welzijn en Sport
+Data Scientist bij Dienst Testen COVID-19 (via Always be learning)
+October 2020 - Present (8 months)
+
+Always be learning
+Data Scientist
+September 2020 - Present (9 months)
+Amsterdam, North Holland, Netherlands
+
+Freelance
+Freelance Data Scientist
+March 2020 - August 2020 (6 months)
+
+Australia and New Zealand
+Travelling
+November 2019 - February 2020 (4 months)
+
+Building Blocks
+9 months
+Data Scientist
+August 2019 - October 2019 (3 months)
+
+Graduate Intern Data Science
+February 2019 - July 2019 (6 months)
+Thesis title and subtitle: Customer Segmentation using Website Data. ||
+Clustering online customers using their click data and gaining useful insights
+into the created clusters
+Grade: 8.5
+
+DataChangers
+Data Science Coach
+April 2018 - May 2019 (1 year 2 months)
+At DataChangers we educate people to become certified data analysts. People
+can follow the Microsoft Data Science Track, which consists of 11 courses.
+Thereby all relevant aspects of data science are addressed, including subjects
+like ethics and law. It makes me happy to see participants enjoy the content of
+the course en getting more confident about their data science skills.
+
+Vrije Universiteit Amsterdam
+Teaching Assistant
+September 2015 - April 2018 (2 years 8 months)
+Courses: Project Big Data, Stochastic Modelling, Business Simulation,
+Operations Research, Introduction to Business Analytics and Linear Algebra.
+Also worked as a student tutor at the 'Mentoraat' meetings for first year
+students.
+
+Bijlesbureau StudentsPlus Nederland
+Tutor
+August 2015 - March 2018 (2 years 8 months)
+Mathematics tutor for high school students and general tutor for elementary
+school students.
+
+Macaw
+Data Science Summer Internship
+August 2016 - August 2016 (1 month)
+Schiphol-Rijk
+Commissioned by Macaw, I investigated how they could best manage their
+parking opportunities after they move to a new building in Hoofddorp. In order
+to do this, I created a model that determines the optimal number of fixed and
+flexible parking spaces. This model minimizes the parking costs.
+This case was used as a reference case that Macaw presented to her
+(potential) clients.
+
+Education
+Vrije Universiteit Amsterdam
+Master of Science (MSc), Business Analytics · (2017 - 2019)
+McMaster University
+Graduate Exchange, Computer Science · (2018 - 2018)
+Vrije Universiteit Amsterdam
+Bachelor of Science (BSc), Business Analytics · (2014 - 2017)
+Keizer Karel College Amstelveen
+Atheneum, Economie en Maatschappij · (2008 - 2014)
+
+Contact
+www.linkedin.com/in/
+evavanbrummelen (LinkedIn)
+Top Skills
+Java
+Python
+Excel
+Certifications
+Analytics Storytelling for Impact
+Deep Learning and Computer Vision
+Developing Big Data Solutions with
+Azure Machine Learning
+Data Science Essentials
+Analyzing and Visualizing Data with
+Microsoft Power BI
+
+
+linkedin-05
+
+Joran Cornelisse
+Data Scientist bij SocialDatabase
+Amsterdam
+
+Experience
+Mysocialdatabase.com BV
+Data Scientist
+july 2018 - Present (2 years 11 months)
+As a Data Scientist, I manage, analyze, and update the database of
+Mysocialdatabase.com. I contribute to the data science team by coding
+various algorithms for optimizing and automating different processes within the
+company.
+
+JASP
+Master Thesis
+february 2019 - august 2019 (7 months)
+Amsterdam Area, the Netherlands
+I wrote my thesis on the application of unsupervised machine learning
+techniques in psychological science. In addition, I co-developed the machine
+learning module of JASP. Grade: 8.0.
+
+Methdology Shop University of Amsterdam
+Consultant
+december 2018 - june 2019 (7 months)
+Amsterdam Area, the Netherlands
+As a statistical consultant I help students with, and advise them on, statistical
+problems regarding their thesis or other projects.
+
+Cordaan
+Huishoudelijk Begeleider
+november 2016 - may 2017 (7 months)
+Amsterdam
+
+Education
+Universiteit van Amsterdam
+Master of Science - MS, Data Science · (2019 - 2020)
+Universiteit van Amsterdam
+Master of Science - MS, Behavioural Data Science · (2018 - 2019)
+Universiteit van Amsterdam
+Bachelor of Science - BS, Psychology · (2014 - 2018)
+Universiteit van Amsterdam
+Propedeuse, Bèta-Gamma · (2013 - 2014)
+
+Contact
+www.linkedin.com/in/joran-
+cornelisse-78019a166 (LinkedIn)
+
+Top skills
+Datamodels
+SPSS 
+Languages 
+Spanish (Elementary)
+German (Elementary)
+Dutch (Native or Bilingual)
+
+
+linkedin-06
+
+Simon BARRES
+Data Scientist | Advanced Analytics
+Amsterdam
+
+Summary
+My passion for Data Science starts with my enthusiasm for solving
+complex problems. My skill set and experience have led me to a
+career where I can help companies use information to make smart
+and efficient decisions. My background and cross-cultural experience
+enable me to respond and quickly adapt to a variety of challenges
+extending across a variety of industries.
+Skills include:
+• Programming Languages: Python, R, SAS, SQL
+• Statistical Modeling • Machine Learning • NLP • Data Mining
+Algorithms • Risk Analytics
+
+Experience
+McKinsey & Company
+Data Scientist
+January 2019 - Present (2 years 5 months)
+Amsterdam Area, Netherlands
+
+EY
+3 years 7 months
+Manager - Advanced Analytics
+October 2018 - January 2019 (4 months)
+New York, New York
+Senior Consultant - Advanced Analytics
+October 2016 - October 2018 (2 years 1 month)
+New York, NY
+Consultant - Advanced Analytics
+July 2015 - October 2016 (1 year 4 months)
+Charlotte, North Carolina
+North Carolina State University
+
+Practicum
+June 2014 - May 2015 (1 year)
+Worked with a team of four peers to analyze transactional data for Estée
+Lauder :
+• Supported effective liaison between analytical process and business
+considerations
+• Analyzed customer interactions with online promotions and sales
+• Performed consumer segmentation to distinguish behavioral patterns over
+time
+• Explored how promotions impact customer acquisition and retention in order
+to optimize promotional effort
+
+Lindsey Wilson College
+Residence Life Assistant
+August 2013 - May 2014 (10 months)
+Columbia, KY
+As a Residence Assistant I:
+• Collaborated across teams and departments to coordinate hall events and
+activities
+• Was directly responsible for 50 students in academic and personal
+development
+• Designed, planned, and implemented social and educational programs
+• Led and performed campus-wide community development
+
+Academic Success Center Lindsey Wilson College
+Tutor in French, economics and statistics
+2012 - May 2014 (2 years)
+Columbia, KY
+• Assisted students in the areas of economics, statistics, and French
+• Tailored the tutoring process and methods to student’s capabilities and pace
+• Organized personal sessions and provided test-taking strategies
+• Learned to break down and explain technical concepts to a non-technical
+audience
+
+Bennett Group Financial Services, LLC
+Finance/ Investment Intern
+May 2013 - August 2013 (4 months)
+Washington, DC
+• Summarized market activity and prepared readily usable material
+• Provided statistical work and charting of market indices
+• Performed stocks and mutual funds research and Analysis
+• Organized presentation material for institutional and individual clients
+• Exposure to Bloomberg terminal to investigate ever-changing challenges
+across industries
+• Learned how to collect and summarize information in a useful and meaningful
+form
+
+Education
+North Carolina State University
+Master of Science - MS, Analytics · (2014 - 2015)
+Lindsey Wilson College
+Bachelor's degree, Business Administration, Management and
+Operations · (2012 - 2014)
+
+Contact
+www.linkedin.com/in/simon-
+barres-57a89965 (LinkedIn)
+
+Top Skills
+Data Analysis
+Statistics
+SAS
+
+Languages
+Spanish (Limited Working)
+English (Full Professional)
+French (Native or Bilingual)
+
+Certifications
+SAS Certified Base Programmer for
+SAS 9
+Google Analytics
+Lean Management Workshop
+SAS Certified Advanced
+Programmer
+SAS Certified Predictive Modeler
+Using SAS Enterprise Miner
+
+Honors-Awards
+2013-14 Daktronics-NAIA Men's
+Basketball Scholar-Athlete
+2012-13 Daktronics-NAIA Men's
+Basketball Scholar-Athlete
+
+
+linkedin-07
+
+Maarten Grootendorst
+Data Scientist | Organizational Psychologist | Clinical Psychologist
+Tilburg
+Summary
+I am a Data Scientist, mostly working with ML and NLP, with a
+background in Organizational and Clinical Psychology. My path to
+this point has not been conventional, transitioning from psychology
+to data science, but has left me with a strong desire to create data-
+driven solutions that make the world a slightly better place.
+
+My greatest achievement is having finished three Master of Science
+degrees Cum Laude. Mostly because It displays my internal drive to
+learn and to keep developing myself wherever possible.
+(Data Science) Languages & Frameworks:
+▪️ Python (NumPy, Pandas, Sklearn, Pytorch, etc.)
+▪️ Docker, Git (CI/CD), Flask, Uvicorn, Graylog, MLFlow, etc.
+▪️ NLP (TF-IDF, topic modeling, BERT, etc.)
+▪️ Graph-based (Graphviz, Networkx)
+▪️ Reinforcement Learning (PER-D3QN, PPO, A2C, etc.)
+▪️ SQL, Qlik, SPSS
+For my Data Science portfolio see:
+● https://github.com/MaartenGr/Projects
+My Medium page:
+● https://medium.com/@maartengrootendorst
+My personal website:
+● https://maartengrootendorst.com
+
+Experience
+Van Spaendonck
+Data Scientist
+March 2019 - Present (2 years 3 months)
+Tilburg
+Working as a Data Scientist within the Data New Business department. I am
+responsible for creating and deploying ML- and NLP-based models using a
+variety of (big) data sources.
+Projects:
+• Improving the quality of data by leveraging NLP (Edit Distance) and Word
+Embeddings (e.g., FastText) to standardize job titles (retrieved from open text
+fields) to ESCO (standardized more than 50% of our job titles)
+• Statistical analyses on the growth of different SME sectors
+• Working on explainable ML to support decision making (DPD, SHAP, LIME,
+etc. )
+• Developed a model allowing for the prediction of turnover when selecting
+between applicants
+• Exploring methods for leveraging data in the pursuit of new business
+Tools:
+• Python (Sklearn, Scipy, Numpy, etc. )
+• SQL, Docker (CI/CD with Gitlab), Git
+• API (Flask, FastApi, Uvicorn, Gunicorn, Nginx, Swagger, Postman, etc.)
+
+Towards Data Science
+Data Science Writer
+June 2019 - Present (2 years)
+On Towards Data Science (Medium publication) I write and publish articles on
+topics such as Machine Learning and Data Science. Collectively, they have
+been viewed over 600,000 times.
+Find me on https://medium.com/@maartengrootendorst
+
+Emset
+Data Scientist & Co-Founder
+January 2019 - August 2019 (8 months)
+Emset leverages data science to help our clients unlock the value of their data.
+We aim to support organizations in their data-driven decision making through
+state-of-the-art technology. Services include data analysis, data visualization,
+machine learning (e.g., predictive modeling or optimization) and statistical
+modeling.
+
+Interpolis
+Trainee Data Scientist
+September 2018 - February 2019 (6 months)
+Tilburg
+• Created a tool that allowed for the exploration of textual documents with
+respect to frequent concepts by leveraging word/sentence embeddings
+• Created several predictive models (e.g., Linear SVM, Boosted Trees) for
+classification of damages
+• Analyses on repeated burglary, fire damages, new products, etc.
+• Worked in an Agile environment
+Tools:
+▪️ Python (Gensim, Sklearn, etc.)
+▪️ R (working with sas7dat)
+▪️ SAS (combination of base language and SQL)
+
+TomTom
+Trainee Data Scientist
+June 2017 - August 2017 (3 months)
+Amsterdam Area, Netherlands
+• Worked as a Data Scientist with TomTom’s sport watch department
+• Created a model for the prediction of heart rates that were inaccurately
+measured
+• The model was an ensemble of models (Forest, XGboost, Ridge, etc.)
+• The accuracy of heart rates was increased with roughly 30% and
+outperformed a moving average baseline
+Tools:
+• Python (Pandas, NumPy, Sklearn, etc.)
+• R (Ggplot for visualizations)
+
+LOI
+Teacher Social Studies & Research Skills
+January 2012 - June 2017 (5 years 6 months)
+I was responsible for the examination of homework assignments of social
+studies including HBO Applied Psychology, MBO Educational Worker and
+HBO Teacher Elementary Education. Furthermore, I supported and guided
+students in their education using a digital learning environment.
+
+PsyQ
+Trainee Clinical Psychologist
+September 2015 - June 2016 (10 months)
+• Intakes on the programs ADHD, Depression, Trauma, Anxiety and BGGZ
+• Treatment within SGGZ (Anxiety, Depression, and ADHD) and BGGZ
+• Active role in multi-disciplinary consultations
+
+IEP (Instituut voor Eclectische Psychologie; MindSonar)
+Data Analist
+April 2014 - November 2014 (8 months)
+MindSonar is a psychological test that measures the thinking styles of
+individuals within specific situations. I was responsible for further development
+of the test by making using of data analysis in SPSS (e.g., through calculations
+of Chronbach’s alpha). Factor analyses were executed to find the underlying
+clusters that represented the questions/topics/data
+
+Grootendorst Training en Advies
+Co-Trainer
+October 2013 - November 2014 (1 year 2 months)
+I assisted several workshops in which I coached participants on their
+communicative skills. Theories and models were used to improve
+communication in a social and organizational setting. The strengths of
+participants were used as a guide to work on and improve the weaknesses
+they had within the communicative domain.
+
+Education
+Jheronimus Academy of Data Science
+Master of Science - MS, Data Science and Entrepreneurship (Cum
+Laude) · (2017 - 2019)
+Tilburg University
+Master of Science - MS, Clinical Psychology (Cum Laude) · (2015 - 2016)
+Tilburg University
+Master of Science - MS, Work- and Organizational Psychology (Cum
+Laude) · (2013 - 2014)
+Tilburg University
+Bachelor’s Degree, Psychology · (2010 - 2013)
+
+Contact
+www.linkedin.com/in/
+mgrootendorst (LinkedIn)
+www.maartengrootendorst.com/
+(Personal)
+
+Top Skills
+Data Science
+Machine Learning
+Python
+
+Certifications
+Python for Data Science and
+Machine Learning
+The Science of Everyday Thinking
+Machine Learning A-Z (Python)
+Data Science and Machine Learning
+with Python
+
+Publications
+Beyond Bag-of-Concepts: Vectors of
+Locally Aggregated Concepts
+
+
+linkedin-08
+
+Allard van Zalen
+Data Scientist in Amsterdam
+Amsterdam
+Summary
+Data, R, Python, quantitative research, analytics, modelling,
+programming, data visualization, statistics, MS Office, urban farming
+
+Experience
+Pathé Theatres B.V.
+Data Scientist
+May 2020 - Present (1 year 1 month)
+Amsterdam, North Holland, Netherlands
+
+Ecochain Technologies
+Data Scientist
+September 2018 - September 2019 (1 year 1 month)
+Amsterdam Area, Netherlands
+DAN DNA - Powered by Dentsu Aegis Network
+Data scientist
+June 2015 - November 2016 (1 year 6 months)
+Amsterdam Area, Netherlands
+
+DAN DNA is the dedicated label for everything “data” related in Dentsu Aegis
+Netherlands. We have a diverse team ranging from academic researchers,
+data scientists, engineers and visualization experts. Our singular focus is to not
+just talk about data, but to apply it in every strategy and every campaign: Data
+in Action. Instead of treating online/offline media differently, we look at data
+from three integrated angles: Declared, Observed and Social behavior.
+
+iProspect|Netsociety
+Data scientist
+May 2013 - June 2015 (2 years 2 months)
+Amsterdam
+iProspect and Netsociety joined their forces on 19 November 2012 and focus
+on online media
+performance in the complex digital domain.
+Driven by knowledge, data and unique technology iProspect|Netsociety has
+realized significant
+results in the marketing mix of many A-brands within o.a. retail, finance en
+travel.
+
+Invicta
+Data Analist
+May 2012 - May 2013 (1 year 1 month)
+Amsterdam
+
+Praxis DIY
+Master's internship and graduation research
+2010 - 2011 (1 year)
+Head office in Diemen, supply chain department
+For the Master of Science ORM I did an 8-month internship at the
+Praxis headquarters. I worked on that in the supply chain department
+my graduation research on cross-docking, this is the transshipment of goods
+without intermediate storage. At the end of 2010 I successfully completed the research
+completed and I went traveling through Southeast Asia with my girlfriend.
+
+Academic Medical Center
+Bachelor research nursing ward
+2007 - 2007 (less than a year)
+Research into the required staffing of the nursing wards. Analysis
+from arrival patterns and duration of stay and processing to a mathematical model.
+Delivered usable computer program.
+
+Education
+Universiteit van Amsterdam / University of Amsterdam
+Master of Science, Operations Research en Management · (2009 - 2011)
+Universiteit van Amsterdam / University of Amsterdam
+Bachelor of Science, Operations Research en Management · (2002 - 2009)
+Atheneum College Hageveld
+VWO · (1995 - 2001)
+
+Contact
+allardvanzalen@gmail.com
+www.linkedin.com/in/allard-van-
+zalen (LinkedIn)
+
+Top Skills
+R
+Analysis
+Data Visualization
+
+Languages
+Dutch
+German
+Spanish
+
+
+linkedin-09
+
+Lars van Kempen
+Data Scientist at IG&H
+Amsterdam
+Summary
+Data Science | Business Consulting | Analytics | Machine Learning |
+Artificial Intelligence | Big Data
+
+Experience
+IG&H Consulting & Interim
+Data Scientist
+April 2018 - Present (3 years 2 months)
+Utrecht
+Responsible for planning, communication, implementation and adoption of
+Data Science solutions in various businesses, sectors and countries. Currently
+implementing Next Best Action solution in a live consumer application.
+Projects include implementation of various high-stake reporting solutions such
+as go-live of new warehouses at the start of Brexit (2018). Optimisation of
+planning in surgery rooms of Dutch hospital. Implementation of data driven
+pricing strategy from price setting to client negotiations for multiple large
+retailers. Data driven distribution strategies for multiple products in financial
+markets. Support implementation of entire redistribution of cost model for large
+logistic service provider. Automated e-mail analysis and forwarding using
+Natural Language Processing.
+Experienced in working on Azure cloud, using Azure Data Factory and Azure
+Machine Learning Studios. Programming languages include Python, R, SQL,
+Apex, (basic) Java.
+
+FAECTOR
+4 years
+Member of the Supervisory Board
+September 2015 - August 2018 (3 years)
+Erasmus University Rotterdam
+Responsible for advising and guiding the board of the study association for
+econometrics and to discuss long-term perspective.
+
+Educational Officer 49th Board
+September 2014 - September 2015 (1 year 1 month)
+Rotterdam
+Full-time responsible for the well-being of the Faculty Association of
+Econometrics & Operations Research. This association organises social,
+career and educational events for over 1100 Econometrics students.
+
+IG&H Consulting & Interim
+Graduate Intern - Data Science
+August 2017 - February 2018 (7 months)
+Developed a predictive algorithm aimed at recognizing clients with an
+increased risk to churn for a client of IG&H Consulting. The derived insights
+are directly applicable to their business and facilitate a fact driven retention
+programme.
+
+Erasmus MC
+Research Assistant
+December 2016 - May 2017 (6 months)
+Rotterdam Area, Netherlands
+Support the research of PhD students at the ophthalmology department in
+terms of data management and data analysis.
+
+Erasmus School of Economics
+Erasmus Ambassador
+September 2015 - September 2016 (1 year 1 month)
+Represent the Erasmus School of Economics at events hosted for high school
+students such as open days and visits to high schools across the Netherlands.
+
+KPN
+Intern Data Science
+September 2015 - October 2015 (2 months)
+Den Haag
+Developed a statistical model used to advise the KPN management regarding
+the performance of call centers in the Netherlands.
+
+Education
+Erasmus School of Economics
+MSc. Econometrics & Management Science - Business Analytics &
+Quantitative Marketing · (2016 - 2018)
+Erasmus School of Economics
+Bachelor's Degree, International Bachelor Econometrics and Operations
+Research · (2012 - 2016)
+European School of Bergen
+High School · (2006 - 2012)
+
+Contact
+www.linkedin.com/in/
+larsvankempen (LinkedIn)
+
+Top Skills
+Matlab
+Economics
+Statistics
+
+Languages
+French (Elementary)
+Dutch (Native or Bilingual)
+English (Native or Bilingual)
+
+
+linkedin-10
+
+Oleg Novikov
+
+Data Science Manager | ex-Uber | Helping data scientists earn what
+they’re worth with nextround.cc
+Amsterdam
+
+Summary
+As a data science manager and a candidate, I was often frustrated
+by two things:
+- A lack of actionable feedback after interviews
+- The fact I could have landed the job if I had been better prepared
+I spoke with dozens of hiring managers to learn how they assess
+candidates and make hiring decisions. But I kept asking myself how
+easier it would be if you knew your 'constructive' feedback before
+attending the interview?
+A LOT.
+Exactly. No more guessing. Take a 30-minute data science mock
+interview at nextround.cc, and receive personalized feedback that
+will help you get the job you want. It's free.
+
+Experience
+Next Round
+Data Scientist
+
+June 2020 - Present (1 year)
+Amsterdam, North Holland, Netherlands
+Next Round helps data scientists and product analysts assess their skills with
+free interactive mock interviews, and provides personalized feedback with
+learning materials.
+
+Uber
+4 years 1 month
+
+Data Science Manager
+
+March 2018 - September 2020 (2 years 7 months)
+Amsterdam Area, Netherlands
+I led a team of data scientists working on lifetime value (LTV) models and
+profitability insights for all Uber products and businesses globally.
+
+Data Scientist
+
+September 2016 - February 2018 (1 year 6 months)
+Amsterdam Area, Netherlands
+Product analytics and data science for Uber payments products.
+
+Lyst
+Sr. Data Scientist
+
+May 2015 - August 2016 (1 year 4 months)
+London, United Kingdom
+Deployment of machine learning models (product ranking, recommender
+engine), and data infrastructure.
+
+Tribuna Digital
+4 years 6 months
+
+Head of Analytics
+
+September 2013 - April 2015 (1 year 8 months)
+I was in charge of personalisation, business intelligence, and analytics. Led
+a team of analysts and engineers that built a bespoke analytics infrastructure
+and recommender system.
+
+Data Scientist
+
+November 2010 - October 2013 (3 years)
+
+iTrack
+Full-Stack Software Engineer
+
+August 2008 - November 2010 (2 years 4 months)
+
+Education
+HBX | Harvard Business School
+Executive Education, Leadership & Strategy · (2017 - 2018)
+
+Maastricht University School of Business and Economics
+Business Intelligence Summer School · (2014 - 2014)
+
+Higher School of Economics
+Computer Science · (2010 - 2014)
+
+Contact
+www.linkedin.com/in/olegnovikov
+(LinkedIn)
+nextround.cc (Other)
+
+Top Skills
+Data Science
+Product Analytics
+Interviewing
+
+Languages
+Spanish (Elementary)
+Russian (Native or Bilingual)
+Dutch (Elementary)
+
+linkedin-11
+
+Warner de Jong
+
+Data Scientist | I create data models to strengthen your business and
+visualize performance for informed decisions
+Amsterdam
+
+Summary
+Hi, I'm actively looking for a Data Scientist role. Do not cold call me.
+Feel free to reach out to me by mail or add me to your network. Do
+leave a note with enough details on the position and I will get back to
+you.
+I currently write and publish about data science (with code) after
+having worked as a data analyst for the last 2 years, working mostly
+with Python, SQL and Power BI. Apart from that, is my experience
+with Airflow, Spark, GCP, Git and a variety of other tools, most
+backed by over 50 Data Science certificates gained in my free time
+(find them all on my LinkedIn), done to up-skill myself to a greater
+level.
+I'm also interested in Economics and hold two Master degrees within
+the field, one specializing in global competitiveness, the other on
+growth in China. Sometimes I'm asked why two? Well... I'm not a
+scholar but I loved going to China and who wouldn't say yes to a
+scholarship? :)
+Regarding my mission, I'm an extravert in data, aiming to combine
+the people with the data. A nice lesson I learned is that although
+not everyone is in data, you can make it speak by visualization and
+business pragmatism. For those who are more into data, they will
+value your production-grade code very much. I strive to grow further
+in my understanding from both sides, in empathy and tech, aiming to
+bring together the data- with the business people.
+Thank you for reading. To start a conversation with me to discuss
+and learn or collaborate, feel free to LinkedIn connect or leave an
+email at warner.d.jong@gmail.com
+Keywords on my background:
+- 2 Master degrees in Economics
+- Python, SQL, Power BI, Excel
+- Airflow, Spark, Git, GCP
+- 50+ certificates in Data Science
+- Publisher on towardsdatascience.com
+- Bouldering
+
+Experience
+SGR
+Data Scientist (bij Eiffel)
+
+February 2021 - Present (4 months)
+Rotterdam, Zuid-Holland, the Netherlands
+
+EIFFEL
+Data Scientist
+
+February 2021 - Present (4 months)
+Amsterdam Area
+
+Writing about Data Science
+Data Scientist / Data Analyst
+
+October 2020 - Present (8 months)
+Sharing my knowledge on how to conduct data science from a business
+perspective.
+Aiming to share my love for the field and hoping to enable others.
+- Find my latest articles published at: https://towardsdatascience.com/
+@warner.d.jong
+- Personal data projects on GitHub: https://github.com/Warnalytics/
+
+B2C Europe
+1 year 9 months
+
+Data Analyst
+
+October 2019 - August 2020 (11 months)
+Amsterdam Area, the Netherlands
+Tools: Python, SQL, Power BI, Kibana, Excel.
+✔ Business Communication: Gathering requirements and creating solutions.
+✔ Data Processing
+✔ Data Analysis: Inference and relationships
+✔ Data Visualization: Applying UX, UI: Making data reporting effective and
+interesting.
+
+★ Project: Product Performance Analysis ★
+• Problem: With more than 50 custom integrated suppliers each providing
+different supplier products worldwide through our API E-commerce solution,
+we noticed quantity and quality differences. To holistically improve the product,
+there was not a clear cut answer.
+• Solution: Conducted a statistical analysis on the relationship between various
+quantitative metrics, uncovering the most influential causes to reduced quality
+in the application.
+★ Project: IT Helpdesk ★
+• Problem: B2C Europe has personnel in 6 different countries with often
+urgent requests. IT needed a model to help prioritize tickets - allowing
+faster response/resolve times - and a dashboard for managers to gain more
+oversight and steer better on concerns within the organization.
+• Solution: Analyzed 2 years of tickets and emails with a model, deriving key
+components of tickets. Then created a new webform that is able to capture
+these key components alongside a dashboard that reports on the performance
+of this new ticketing process.
+
+Business Analyst
+
+December 2018 - November 2019 (1 year)
+Amsterdam Area, the Netherlands
+Tools: Python, SQL, Power BI, Excel.
+Direct support to the CCO, supporting decision-making at a global and per
+HUB level plus providing reports and tooling to the Sales organization.
+★ Project: Sales Pricing Data Modelling + Tooling ★
+• Problem: In parcel logistics there are many combinations between 1)
+countries that retailers want to service, 2) carriers that deliver to these
+countries, and 3) pricing strategies among carrier products. Each combination
+results in a different cost curve given a quantity of X parcels, causing pricing
+difficulties at the Sales department.
+• Solution: To support I created a data model that retrieved and structured the
+supplier cost components, allowing the most cost-effective combination to be
+chosen, given the buying conditions of all of our customers.
+★ Project: Customer Performance Dashboard ★
+
+• Solution: Various visualizations of sales flows to provide insights at a
+global level. Detailed simulations on the potential revenue and costs of sales
+prospects
+
+hivetime
+Marketing Intern
+
+February 2018 - August 2018 (7 months)
+Shanghai, China
+Hivetime is a management consultancy specialized in leadership of key teams.
+With Hivetime, I met various experts and leaders through workshops and
+events to develop the marketing and business of the company.
+• Initiated online marketing. Built company website and designed the customer
+journey
+• Attended 10+ industry event for continuous learning and content marketing of
+new trends.
+• Interviewed MNC leaders at senior and C-level to create customer personas,
+improving outreach on LinkedIn.
+• Recruited and later managed 3 interns, each with their own specialty in
+content research and creation
+• Had a lot of fun with the team, lots of lessons learned in onboarding and
+guidance.
+• Developed LinkedIn-related content marketing guidebook for internal practice
+sharing.
+Unique about Hivetime is the mix of leadership, alignment, design thinking
+and people practices, to facilitate an organizational development journey. This
+journey is key to teams meeting their firm’s performance challenge.
+
+GoBear
+Market Analyst
+
+June 2017 - September 2017 (4 months)
+Singapore
+• Conducted market research on banking and insurance products in 6 SEA
+markets, the customer decision-making insights supported the expansion
+strategy and sales of the company.
+• Designed an SEO strategy with competition overview and keyword valuation
+per demographic.
+• Developed an algorithmic market assessment and forecasting tool based on
+82 parameters. The tool was distributed to all 6 GoBear countries.
+
+GoBear is a financial comparison platform for banking and insurance products.
+By reducing the need for financial literacy and providing ease of comparison,
+GoBear excels in access and transparancy. As one of the fastest growing
+startups in SEA, GoBear has served over 29 million customers since 2014.
+
+ESN Groningen
+Event Organizer
+
+June 2016 - June 2017 (1 year 1 month)
+Groningen, the Netherlands
+• Organized the Career Conference on career development and cross-cultural
+integration.
+• Planned the budget and expenditure for the career arm of ESN Groningen.
+• Facilitated company visits for aspiring international students.
+ESN is a non-profit international student organisation, composed of over
+13,500 members in over 40 countries. Providing opportunities for cultural
+understanding and self-development under the principle of Students Helping
+Students. ESN Groningen, one of the largest ESN locations holds over 150
+events annually.
+
+Education
+复旦大学
+Master's Degree, Chinese Economy · (2017 - 2018)
+
+Rijksuniversiteit Groningen
+Master's Degree, International Economics and Business · (2016 - 2017)
+
+전남대학교
+Business administration, Psychology · (2015 - 2016)
+
+University of Groningen
+Bachelor’s Degree, International Business · (2012 - 2016)
+
+Contact
+www.linkedin.com/in/warnerdejong
+(LinkedIn)
+
+Top Skills
+Team Leadership
+Cross-cultural Communication Skills
+Academic Writing
+
+Languages
+Dutch (Native or Bilingual)
+English (Full Professional)
+German (Elementary)
+
+Certifications
+Cleaning Data in Python
+Intermediate R: Practice
+Unsupervised Learning in Python
+Importing Data in R (Part 1)
+Intermediate SQL
+
+Honors-Awards
+Foreign Industry Competition - Third
+prize
+Industry Competition - Wavin Second prize
+
+linkedin-12
+
+Alexander Sherstnev
+
+Group Manager in Analytics and Data Scientist at Avanade
+Amsterdam
+
+Summary
+Data science, machine learning, data analysis, and statistical
+modelling projects with business and research data. Mathematical
+and computational simulation of complex phenomena in business,
+industry, and science.
+Data analytics and Machine learning consultancy projects in retail,
+aviation and hospitality sectors.
+
+Experience
+Avanade
+Group Manager in Analytics and Data Scientist
+January 2021 - Present (5 months)
+Amsterdam, North Holland, Netherlands
+
+Delivery Lead and Principle Consultant in Data Science and Analytics.
+Specialization - machine learning, analytics solutions, data-driven strategy,
+retail, supply chain, forecasting.
+
+Altius
+5 years 9 months
+
+Principal Consultant in Data Analytics and Machine Learning
+December 2018 - December 2020 (2 years 1 month)
+Amsterdam, Netherlands
+
+Lead Data Scientist
+
+July 2015 - December 2020 (5 years 6 months)
+Amsterdam, Netherlands
+Responsible for technical leadership in Altius Data Science Practice.
+
+Principal Consultant in Data Analytics and Machine Learning
+July 2018 - December 2018 (6 months)
+London, United Kingdom
+
+Senior Consultant in Data Analytics and Machine Learning
+April 2015 - June 2018 (3 years 3 months)
+London, United Kingdom
+
+Designed and developed production-level forecasting and recommendation
+systems for clients in the retail industry.
+Performed a data analysis of HR data for a large client in the hospitality sector
+with 125,000 employees. Survival methods were applied.
+Designed and implemented fraud detection systems for clients in insurance
+and airline industries.
+
+GSK
+Scientific Investigator (contract)
+
+March 2014 - April 2015 (1 year 2 months)
+Stevenage, United Kingdom
+Research projects in computational biology, pre-clinical and phase III data
+pipelines, network analyses and DNA/RNA-seq data analyses.
+
+APAdata IT Engineering
+Director and Data Scientist
+
+January 2014 - April 2015 (1 year 4 months)
+London, United Kingdom
+Data science contracts in pharmaceutical industry and in an advertising
+startup. Managed the company, developed machine learning and statistical
+algorithms for processing of geolocation and biological data.
+
+University of Dundee
+Senior Research Scientist
+
+May 2010 - March 2014 (3 years 11 months)
+Data analyses of large size genomic datasets (RNA-seq) for validation of the
+gene differential expression methods; I designed and built pipelines for these
+analyses.
+Design and development of ProteoCache, a java web application for caching
+Jpred output and managing large-scale genome-wide calculations.
+Analysed large genomic datasets (RNA-seq): designed and developed
+pipelines for the data analysis; integrated in-house and public datasets;
+developed a web-server for hosting these data.
+Developed a novel software predictor of genomic features APApred, based on
+neural networks. Full development cycle.
+
+University of Oxford
+Research Scientist
+
+October 2008 - May 2010 (1 year 8 months)
+Oxford, United Kingdom
+Developed the CompHEP Monte Carlo simulation software. I was the leading
+developer of this project for several years.
+Mathematical modelling of particle collisions with CompHEP for data analyses
+in CERN experimental groups at the Oxford University.
+
+University of Cambridge
+Research Scientist
+
+January 2006 - October 2008 (2 years 10 months)
+Cambridge, United Kingdom
+Designed and developed various simulation codes for scientific projects at
+CERN.
+Designed HepML, a special XML-based markup language for keeping
+information on Monte-Carlo data in large-scale productions at CERN,
+implemented a C library for the language.
+
+CERN
+Research Scientist
+
+February 2004 - January 2006 (2 years)
+Geneva Area, Switzerland
+Developed software and prepared simulated data for future data analyses in
+the Single Top & Higgs research groups in the CMS collaboration: prepared
+Monte-Carlo simulated data, arranged the full CMS detector simulation
+production of these data, developed data analysis codes with neural networks
+and genetic algorithms.
+Designed and implemented GENSER (a library of Monte Carlo simulation
+programs) and MCDB (a web knowledge-base for storing metadata of Monte
+Carlo simulated data) for CERN collaborations.
+
+Moscow State University
+PhD Student & Junior Research Scientist
+
+March 2001 - November 2005 (4 years 9 months)
+Moscow, Russian Federation
+
+Developed core codes for the CompHEP Monte Carlo simulation software and
+applied CompHEP in research in theoretical physics.
+
+Education
+Lomonosov Moscow State University (MSU)
+PhD, Theoretical Particle Physics · (2001 - 2005)
+
+Lomonosov Moscow State University (MSU)
+M.Sc. (with honors), Nuclear Physics · (1994 - 2001)
+
+Contact
+www.linkedin.com/in/alexsherstnev
+(LinkedIn)
+
+Top Skills
+R
+Data Analysis
+Machine Learning
+
+Languages
+Russian (Native or Bilingual)
+English (Full Professional)
+
+Certifications
+edX Verified Certificate for
+Programming with Python for Data
+Science
+edX Verified Certificate for Applied
+Machine Learning
+edX Verified Certificate for Principles
+of Machine Learning
+
+Publications
+Parton distributions for LO
+generators
+Spin effects in processes of single
+top quark production at hadron
+colliders
+Full list of publications is available in
+my Google Scholar profile
+New Compound Sets Identified
+from High Throughput Phenotypic
+Screening Against Three
+Kinetoplastid Parasites
+Direct sequencing of Arabidopsis
+thaliana RNA reveals patterns of
+cleavage and polyadenylation
+
+linkedin-13
+
+Uwe Kirsten
+Senior Data Scientist
+Amsterdam
+
+Summary
+PROFILE
+I am the senior data scientist who will bring excellence to your
+decision making. My extensive statistical experience ranges from
+descriptive statistics and regressions to sophisticated neural network
+and machine learning implementations. Building on my broad yet indepth knowledge of a range of industries, I will quickly identify how
+and where my statistical toolkit and skillset can leverage business
+results, and help you make better decisions and achieve measurable
+results. Using R, Spark, Python, SQL, big data and visualization
+tools, I will deliver solid insights and predictions that will grow and
+enhance your business.
+
+SUMMARY
+• Data Science and Machine Learning expert turning raw big data
+into insights, predictions, recommendations, implementations, and
+productionized business value
+• 4 years of experience as Data Scientist and 20 years in dataanalytical roles, such as Data analyst, Statistician, Scientific
+researcher, Economist, Econometrist
+• Soft skills: Excellent communication, presentation and coaching
+skills, stakeholder, customer and business value oriented, identifying
+and prioritizing business relevant problems, Agile
+• Deep learning, machine learning, predictive modelling, data mining,
+web scraping, text mining, NLP, econometrics
+• Coding skills: Python (ca. 60 packages), R (ca. 100 packages),
+SQL, SAS Enterprise Guide, command line
+• Libraries (top-20): numpy, scipy, matplotlib, pandas, sklearn, scikitlearn, scikit-plot, tensorflow, tensorboard, keras, spark, xgboost, nltk,
+beautifulsoup, seaborn, bokeh, flask, graphiz, opencv, pytest, etc.
+• Notebooks: Jupyter, Zeppelin, IntelliJ, Spyder, R-Studio
+• Big Data technology: Docker, HDFS, YARN, Hive, Kafka,
+BigQuery, Spark, MapR, Cloudera, GIT, Jenkins, cloud computing,
+Aster, MS SQL-server, Teradata, NoSQL, json format
+
+• Visualizations with Tableau, Power BI, Qlikview, ggplot, scikit-plot,
+matplotlib, graphviz, seaborn, et al
+• Statistics tools: SPSS statistics, SPSS modeler, Statistica, SAS Eminer, Excel, Access, Spotfire
+• Industries: government, e-commerce, insurance, research,
+education, construction, energy, IT services, telecommunication,
+consultancy
+• Language skills: Dutch (near native), English (proficient), German
+(native speaker), French
+• Project links: https://gitlab.com/uwekirsten/breastcancer
+
+Experience
+Terberg Business Lease Group B.V.
+Senior Data Scientist
+October 2020 - Present (8 months)
+Utrecht, Netherlands
+
+To improve business processes I develop both, the Azure Machine Learning
+platform as well as machine or deep learning models to predict damages,
+costs, prices etc.
+
+Study Break
+Study Sabbatical
+
+October 2019 - September 2020 (1 year)
+Amsterdam
+I developed myself by studying autodidactically on various data science
+fields, like Python, Deep Learning, XGBoost, Keras, Gradient Boosting,
+Recommendation engines, Computer Vision, Pyspark, and more
+
+Knowit BV
+Senior Data Scientist / Consultant
+
+September 2018 - October 2019 (1 year 2 months)
+For a governmental organization I developed and implemented machine
+learning models to predict fraud of clients requests.
+
+Government
+Data Science Programmer
+
+November 2018 - July 2019 (9 months)
+Utrecht Area, Netherlands
+
+Programming fraud detection models for this customer. I helped the Dutch
+Tax Authority with machine learning prediction modelling to detect incorrect or
+even scam cases which helps improving the process of controlling tax returns.
+I also analyse various business fields to identify fruitful analysis and modelling
+opportunities and I check and test the performance of existing models. I
+performed ad hoc analysis for the management information, for example a
+funnel analysis.
+
+Devoteam
+Senior Data Scientist / Consultant
+
+September 2017 - September 2018 (1 year 1 month)
+During my work at Devoteam I helped a Dutch medium-sized municipality
+with the prediction of budgets for home care. For this client, I developed a
+prediction model based on a machine learning algorithm as well as a model
+implementation plan. Furthermore, I took lead in the development of data
+science businesses and products at Devoteam. This resulted in a data science
+implementation plan as well as standard machine learning prediction model
+scripts in R and Python applicable for diverse customer demands. I also
+maintained customer relations.
+
+KPN
+Data Scientist / Marketing Intelligence Analyst
+June 2016 - June 2017 (1 year 1 month)
+Amsterdam Area, Netherlands
+
+I supported KPN brand Telfort with better customer information for campaigns
+by developing a system to calculate the expected customer lifetime value uplift.
+This included the development of a machine learning churn model. As a result,
+Telfort was able to make better choices between upgradeable customers and
+sleepers. Furthermore, I analysed the customer-product-paths that provided
+information to Telfort about the best propositions.
+For KPN I developed and implemented GIT based machine cross-sell models
+to predict customer propensity to buy. The results were used by database
+marketer’s for more efficient campaign selections. Within the customer journey
+analytics project group, I performed a (text mining) sentiment analysis of call
+center contacts and the effect on churn. Moreover, I analysed the effects of
+premiums on loyalty of mobile-landline customers which provided very useful
+information on the most effective premium propositions.
+
+Bakker Hillegom B.V.
+Data Analyst / Marketing Intelligence Analyst
+
+August 2015 - June 2016 (11 months)
+Amsterdam Area, Netherlands
+For Bakker, I developed logistic-regression-based score and response
+models for the propensity to buy. I used the scores to make better choices
+in the customer selections for mailings such as campaigns and catalogues.
+Furthermore, I analysed the effect of aggressive compared to smooth
+campaign styles. As result, I found specific customer features (lifetime,
+gender) work in the smooth approach as a better driver than in the aggressive
+approach. This insight was used to distinguish the mailings more efficiently.
+
+Dorma Nederland B.V.
+Data Analyst
+
+September 2013 - August 2015 (2 years)
+Utrecht Area, Netherlands
+For Dorma, I developed linear-regression-based sales forecast models that
+allowed to benchmark the sales performance of the account managers. By
+using a machine learning association rules algorithm, I provided information on
+product groups useful to include in the assortment of the web shop.
+
+Belmondo.nl
+Online Marketing Analyst
+
+August 2012 - September 2013 (1 year 2 months)
+Amsterdam Area, Netherlands
+
+Centraal Bureau voor de Statistiek
+Statistics Researcher
+
+March 2006 - January 2011 (4 years 11 months)
+The Hague Area, Netherlands
+For CBS, I developed price and volume statistics measuring real BIP and real
+economic growth of The Netherlands. I was responsible for the methodology
+used for the development and lead a project team of five developers and
+analysts. My development work comprised many industries such as car lease,
+transport, consultancy, accounting and IT services, as well as health, real
+estate and trade. I represented Statics Netherlands at UN working group
+and EUROSTAT task force meetings where presented my papers on the
+Dutch methodology of price statistics. In the CBS Greenbook, I published my
+research on the producer confidence and investment.
+
+NMa-Nederlandse Mededingingsautoriteit (opgegaan in ACM per 1
+april 2013)
+Market Analyst
+
+November 2004 - December 2005 (1 year 2 months)
+The Hague, Netherlands
+For this organization, I have performed energy market reports with KPIs on the
+Dutch energy retail and wholesale markets. I have represented Netherlands
+in EU task forces and organized reporting to the EU commission on the stage
+of liberalization of energy markets. Moreover, I assessed energy supplier’s
+transparency and comprehensibility of energy bills by investigating how much
+they meet the agreed comprehensibility and transparency criteria.
+
+Alterra Wageningen UR
+Researcher
+
+February 2002 - June 2004 (2 years 5 months)
+Wageningen, Netherlands
+For the International Commission of the natural reserve Het Zwin, I helped
+making up decision on the reserve’s enlargement by predicting the changes
+of the economic value for the region as well as the natural reserve itself. For
+the Dutch Natural Reserve Plan Office (NPB), I investigated the intersection
+of traffic and natural reserves in the Netherlands which contributes to the
+customer’s policy decisions.
+
+Ministerie van Economische Zaken
+Beroepsopleiding Financieel-Economisch Beleidsmedewerker
+September 2000 - September 2001 (1 year 1 month)
+The Hague Area, Netherlands
+
+At the Ministry Of Economic Affairs, I participated in the policy process of the
+airport liberalization as well as the publication on the Dutch progress on market
+liberalizations.
+
+SVB Sociale Verzekeringsbank
+Data Quality Analyst
+
+March 1999 - June 2000 (1 year 4 months)
+Amsterdam Area, Netherlands
+In order to investigate the effectiveness of the regulation for pension
+continuation for unemployed I programmed and calculated the regulation
+payment and detected anomalies.
+
+SEO Economic Research
+Researcher
+
+January 1998 - February 1999 (1 year 2 months)
+Amsterdam Area, Netherlands
+
+At this scientific research institute, I developed econometric models that
+calculate and predict the performance of schools.
+
+SocialData
+Fieldwork Market Research Interviewer Data-Entry
+March 1995 - December 1997 (2 years 10 months)
+Essen Area, Germany
+
+Socialdata is a Research Institute for Infrastructure and Mobility
+
+Education
+DataCamp
+Data Science spearheads · (2019 - 2019)
+
+Coursera
+Data Science Specialization · (2014 - 2016)
+
+SRM Amsterdam
+NIMA B1, e-marketing · (2011 - 2012)
+
+University of Essen, Germany
+Diplom, Economics (Volkswirtschaftslehre) · (1989 - 1997)
+
+Erasmus University Rotterdam, Netherlands
+post-dostoral, financial-economic policy-making · (2000 - 2001)
+
+Contact
+www.linkedin.com/in/uwekirsten-3462a629 (LinkedIn)
+
+Top Skills
+Python
+R
+SQL
+
+Languages
+English (Full Professional)
+Dutch (Full Professional)
+French (Professional Working)
+
+Certifications
+Building Recommendation Engines
+with PySpark
+Deep Learning with Keras in Python
+Deep Learning in Python
+Machine Learning with PySpark
+Extreme Gradient Boosting with
+XGBoost
+
+
+linkedin-14
+
+Vincent Cai
+
+Associate Data Scientist at Nielsen
+Rotterdam
+
+Summary
+A Data Science and Artificial Intelligence enthusiast with solid
+programming and analytical skills, as well as hands-on experience
+with solving business problems with data-driven solutions. A
+professional with multidisciplinary experience and excellent people
+skills.
+
+Experience
+Nielsen
+Associate Data Scientist
+
+May 2020 - Present (1 year 1 month)
+Rotterdam, South Holland, Netherlands
+
+PlayGround Fitness
+Operations Manager & Fitness Coach
+February 2018 - August 2018 (7 months)
+Shanghai City, China
+
+* Designed operational and service procedures for the gym
+* Analysed sales data and presented analyses in weekly meetings
+* Recruited and coordinated fitness trainers
+* Promoted the gym on social media and sports reservation applications
+* Organized weekly events with fitness and health-related themes
+* Provided customized personal training for clients with various fitness goals
+* Designed and led group fitness classes
+
+KLM Royal Dutch Airlines
+Flight Attendant
+
+August 2008 - February 2018 (9 years 7 months)
+Shanghai City, China
+* Attended to passengers’ safety and wellbeing onboard
+* Maintained effective communication with passengers and crew members
+* Actively promoted KLM’s Frequent Flier Program
+* Went the extra mile to value and satisfy VIP passengers and Frequent Fliers
+* Ensured cabin and passenger compliance with safety and security rules
+* Excelled in crew performance evaluations with outstanding scores
+
+Beijing Capital International Airport
+Secretary
+August 2005 - July 2008 (3 years)
+Beijing
+
+* Arranged appointments and organized meetings for the General Manager
+* Interpreter for the GM in international meetings
+* Ensured efficient communication between the GM and all departments
+* Prioritized department reports and processed accordingly
+* Maintained archives of documents and paperwork for future reference
+
+Education
+Tilburg University
+Master of Science - MS, Data Science & Society · (2019 - 2020)
+
+Tilburg University
+Pre-Master, Data Science & Artificial Intelligence · (2018 - 2019)
+
+University of International Business and Economics
+Bachelor, Public Administration · (2001 - 2005)
+
+Contact
+www.linkedin.com/in/vincentxcai
+(LinkedIn)
+
+Top Skills
+Python
+R
+Machine Learning
+
+Languages
+English (Full Professional)
+Dutch (Elementary)
+Chinese (Native or Bilingual)
+
+Certifications
+City Deal Challenge - The Healthy
+City Den Bosch
+CPR/AED/First Aid
+Introduction to PySpark
+Certified Personal Trainer
+
+
+linkedin-15
+
+Hava Shabtai
+
+Junior Data Scientist at Ordina
+Utrecht
+
+Summary
+My abilities as a data scientist are data cleaning and manipulation
+using the popular python pandas data science library etc. I am
+able to take tabular data, clean it, manipulate it, and run inferential
+statistical analyses. Moreover, I am able to make information
+visualization, with a focus on reporting and charting using the
+matplotlib library.
+As a data scientist I am also able to identify the difference between a
+supervised (classification) and unsupervised (clustering) technique,
+identify which technique is needed to apply for a particular dataset
+and need, engineer features to meet that need, and write python
+code applying the scikit-learn predictive modelling methods to carry
+out an analysis.
+One can see a demonstration of my ability on: https://
+havashabtai.github.io/
+E-mail: Hava.Shabtai@ordina.nl
+
+Experience
+Ordina
+Junior Data Scientist
+
+February 2018 - Present (3 years 4 months)
+Ringwade 1, 3439 LM Nieuwegein
+
+Data Science
+Looking for a job
+
+Education
+University of Haifa
+Master’s Degree, Mathematics · (2006 - 2010)
+
+Technion - Israel Institute of Technology
+Bachelor’s Degree, Mathematics · (2001 - 2005)
+
+Contact
+j.h.shabtai@gmail.com
+
+www.linkedin.com/in/hava-shabtai
+(LinkedIn)
+
+Top Skills
+Data Science
+
+Languages
+German
+English
+Hebrew
+
+Certifications
+Applied Plotting, Charting & Data
+Representation in Python
+Introduction to Data Science in
+Python
+Applied Machine Learning in Python
+R Programming
+The Data Scientist’s Toolbox
+
+
+linkedin-16
+
+Daphne van Leeuwen, PhD
+Senior Data Scientist at Bright Cape
+Amsterdam
+
+Summary
+I am an energetic, ambitious person with a passion for quantitative
+decision-making. With my background in data-driven decisionmaking, I encourage people to make more impactful decisions by
+using data. I believe that a data-driven approach is instrumental in
+today’s working environment.
+I am passionate about spatial analytics, pattern recognition and
+anomaly detection. With a special interest in environmental
+challenges that contribute to a sustainable world, and I am eager to
+expand my knowledge in this domain!
+
+Experience
+Bright Cape
+3 years 2 months
+
+Senior Data Scientist
+
+December 2020 - Present (6 months)
+Amsterdam, North Holland, Netherlands
+Data Science Consultancy and additional responsibilities, including
+competence lead in the data science infrastructure and tooling landscape and
+development of our data science training portfolio.
+
+Data Scientist
+
+April 2018 - December 2020 (2 years 9 months)
+Data Science consultancy projects including:
+• Trainer of the Applied Data Science Bootcamp, including set-up of the
+curriculum – Via partner EIT Digital
+• Building a scalable control monitoring solution for risk & compliance using
+Process Mining, RPA and Cognitive analytics – Banking Industry.
+• Coaching two junior Data Scientists and their team to build the Data Science
+capability – Energy Supplier.
+• Identification and classification of machine degradation patterns with
+Computer Vision – High-Tech Manufacturing.
+• Innovation project ‘Eole Eyes’ developing a full-packaged drone solution for
+decision support in emergency situations
+
+Centrum Wiskunde & Informatica
+PHD Candidate
+
+January 2014 - January 2019 (5 years 1 month)
+Science Park, Amsterdam
+Dissertation title: Stochastic models for Optimization and Control of
+Transportation Systems.
+
+TrafficLink B.V.
+Researcher
+
+January 2014 - December 2017 (4 years)
+Uithoorn
+Public Private Partnership - CWI and TrafficLink
+Supporting the development team of TrafficLink to advance their traffic
+management software with mathematical models and data-driven solution.
+Specific contribution include:
+• A data-driven traffic accident analysis and forecasting software module by
+means of geo-spatial analytics techniques.
+• An optimization model for time-dependent demand-spreading to reduce traffic
+delays at bottleneck locations, e.g., Amsterdam Arena, Amersfoort Dierenpark.
+Furthermore, I was the research representative of Traffic Link in the FP7
+European consortium project called: "Reduction: Technology for the
+Environment, in which I finalized the software integration solution.
+
+Education
+Vrije Universiteit Amsterdam (VU Amsterdam)
+Doctor of Philosophy - PhD, Applied Mathematics · (2014 - 2019)
+
+Vrije Universiteit Amsterdam (VU Amsterdam)
+Master's degree, Business Analytics · (2011 - 2013)
+
+UPC School (Universitat Politècnica de Catalunya)
+Erasmus period, Courses Master of advanced mathematics and mathematical
+engineering · (2011 - 2012)
+
+Vrije Universiteit Amsterdam (VU Amsterdam)
+Bachelor of Science, Business Mathematics and Informatics · (2007 - 2012)
+
+Kaj Munk college Hoofddorp
+· (2004 - 2007)
+
+Contact
+www.linkedin.com/in/daphne-vanleeuwen-phd (LinkedIn)
+
+Top Skills
+Machine Learning
+Spatial Analysis
+Stochastic Modeling
+
+Languages
+English (Professional Working)
+Dutch (Native or Bilingual)
+Spanish (Elementary)
+
+
+linkedin-17
+
+Mark Patrick Roeling
+Lead Data Scientist at Dataworkz
+The Hague
+
+Summary
+I am a Data Scientist currently working as a consultant in Senior and
+Lead roles. I have a mixed background (public and private) focused
+on applying and developing data science in a risk, defense and
+investigation context.
+Experienced and certified in working with substantial data volumes
+in various infra (Cloudera; Hive/Spark/AWS/Azure) and platforms
+(R/Python/SAS). My multidisciplinary background helps in using
+different analytical angles to solve problems. >5y data science
+experience completed with a firm academic track record in machine
+learning and statistics. Experienced staff advisor on ethical aspects
+regarding algorithms and data usage.
+Experience with unsupervised learning, clustering, social network
+analyses, and missing data. Developer of computer vision
+(movement), open-source intel- and geospatial intelligence
+applications.
+
+Experience
+Dataworkz
+Lead Data Scientist
+
+March 2021 - Present (3 months)
+Utrecht, Netherlands
+
+Ministerie van Financiën
+Senior Data Scientist
+
+March 2020 - February 2021 (1 year)
+The Hague Area, Netherlands
+Python, Docker, Flask
+
+Ministerie van Defensie
+Big Data Scientist
+
+January 2018 - January 2020 (2 years 1 month)
+The Hague Area, Netherlands
+Hadoop, Hive, Python, R, Beeline, Docker, Java, UDFs
+
+ING
+Data Scientist
+
+July 2016 - September 2016 (3 months)
+Amsterdam
+Develop an innovative anomaly detection method to find fraud, and
+subsequently updated the consumer credit fraud detection model.
+
+Capgemini
+Data Scientist, Finance and Risk.
+
+November 2014 - October 2015 (1 year)
+Utrecht
+Practice Insights & Data; Cluster Data Science.
+Developer of data-driven models to detect fraud in both private (banking) and
+public (tax authorities) settings. Models and applications were predominantly
+based on machine learning algorithms and we collaborated with SAS and IBM
+Watson.
+Deployment rating 89.9%.
+
+Erasmus MC
+Junior Data Analyst
+
+July 2011 - August 2014 (3 years 2 months)
+Erasmus MC is the largest university hospital in the Netherlands. Worked with
+large datasets of genomic and psychometric data.
+My work provided meta-analytic evidence that variation in microglial genes
+underlies Autism Spectrum Disorders. I also linked these genes to intracranial
+brain volume in healthy subjects which opens the possibility that their might
+be a clear genetic distortion contributing to the increased brain volume
+phenomenon often seen in autism patients, in which abnormal functioning
+of microglial genes inhibits a healthy synaptic pruning process, resulting in
+hyperconnectivity and increased brain volume.
+Responsible for data collection and analyses in +5000 patients with various
+mental disorders. Data were used in various master- and bachelor theses and
+several students that I supervised have become PhD students.
+
+CNCR, Center for Neurogenomics & Cognitive Research
+Junior Data Analyst
+July 2011 - August 2014 (3 years 2 months)
+Amsterdam
+Collaboration with Erasmus MC.
+
+VU University Amsterdam
+Research Assistant
+
+January 2010 - June 2011 (1 year 6 months)
+Netherlands Twin Register (NTR), mainly solving data quality issues;
+datacoding and maintenance.
+Worked with dr Danielle Cath on the genetics of tic disorders and with dr Marijn
+Distel on the genetics of Borderline Personality and Anger.
+
+Holland Casino
+Croupier / Dealer
+
+November 2007 - June 2011 (3 years 8 months)
+
+Tilburg University
+3 years 7 months
+
+Research Assistant
+
+September 2006 - March 2010 (3 years 7 months)
+2007 dr Martijn Kwaijtaal
+2008 prof. Beatrice de Gelder
+2008-9 dr Andreas Wismeijer
+
+Student Assistant
+
+January 2008 - May 2009 (1 year 5 months)
+Tutor academic skills
+TA psychology and health
+
+McDonald's
+Crew
+
+January 2001 - July 2005 (4 years 7 months)
+Waalwijk
+
+Education
+TU Delft
+
+Doctor of Philosophy - PhD, Cybersecurity and Statistics / Unsupervised
+Learning · (2016 - 2020)
+
+University of Oxford
+Doctor of Philosophy (PhD), Cybersecurity and Statistics / Unsupervised
+Learning · (2016 - 2020)
+
+Erasmus University Rotterdam
+MSc, Health Sciences: Genetic Epidemiology and Biostatistics · (2011 - 2013)
+
+Vrije Universiteit Amsterdam
+MSc, Behavioral Genetics · (2010 - 2011)
+
+Tilburg University
+BSc, Psychology · (2005 - 2010)
+
+Contact
+www.linkedin.com/in/
+markpatrickroeling (LinkedIn)
+www.mproeling.com (Personal)
+
+Top Skills
+Statistics
+Data Science
+R
+
+Certifications
+Scrum Master
+Structuring Machine Learning
+Projects
+SAS Certified Base Programmer for
+SAS 9
+MLOps (Machine Learning
+Operations) Fundamentals
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization, and Optimization
+
+Honors-Awards
+Oxford University Studentship
+Presentation award Ned Vereniging
+Kindergeneeskunde
+Speciale Cultuurprijs
+
+Publications
+Imputation of attributes in networked
+data using Bayesian autocorrelation
+regression models
+Assessing opinions on Software
+as a Weapon in the context of
+(inter)national security
+Piloting a generic cancer consumer
+quality index in six European
+countries.
+Sex differences and genderinvariance of mother-reported
+childhood problem behavior.
+Meta-analysis of the heritability of
+human traits based on fifty years of
+twin studies
+
+
+linkedin-18
+
+Steven Postmus
+Data Scientist at Data Science Lab.
+Amsterdam
+
+Summary
+I'm holding a MSc degree in Business Analytics, obtained at VU
+University Amsterdam. My passion is to use data science solutions
+to solve complex business problems. Currently working as a Data
+Scientist @ Data Science Lab.
+
+Experience
+
+Data Science Lab.
+Data Scientist
+September 2020 - Present (9 months)
+Amsterdam, North Holland, Netherlands
+Data Science Lab is a full-service consultancy that helps clients to realise their
+data-driven ambitions, using the latest data science and cloud solutions.
+
+NEWCRAFT
+Data Scientist
+
+February 2020 - September 2020 (8 months)
+Amsterdam Area, Netherlands
+NEWCRAFT helps businesses achieve results faster through digital
+acceleration. The Data Science team helps clients by providing data science
+services such as data-driven marketing solutions and data strategy.
+In this period I worked on projects for multiple clients, where I improved both
+my hard skills (building full-stack advanced machine learning applications
+from scratch till deployment the cloud) and my soft skills (consulting skills,
+stakeholders and project management).
+
+bunq
+Data Scientist
+
+August 2019 - January 2020 (6 months)
+Amsterdam Area, Netherlands
+bunq is a fully digital data-driven challenger bank, that does banking in a
+complete new way.
+
+In this period, I developed and implemented a transaction monitoring and fraud
+detection system that was able to detect fraudulent transactions and fraudsters
+in an earlier stage, based on their historical transactions and characteristics.
+
+Vrije Universiteit Amsterdam (VU Amsterdam)
+Teaching Assistant
+April 2019 - July 2019 (4 months)
+Amsterdam Area, Netherlands
+
+Teaching assistant for the course 'Machine Learning for the Quantified Self'.
+
+Deloitte Nederland
+2 years 8 months
+
+Thesis Intern Analytics & Information Management
+September 2018 - April 2019 (8 months)
+Amsterdam Area, Netherlands
+
+Thesis for the MSc Business Analytics (VU Amsterdam), written at Deloitte's
+Analytics & Information Management service line.
+Subject: Generating patients behaviour using Generational Adversarial
+Networks.
+Grade: 9.0
+
+Werkstudent Analytics & Information Management
+September 2016 - August 2018 (2 years)
+Amsterdam Area, Netherlands
+
+Part of the Analytics and Information Management service line within Deloitte's
+Technology practice in the Netherlands. Here, I strongly developed both
+my analytical and visualization skills by supporting consultants in several
+advanced analytics projects.
+
+Education
+Vrije Universiteit Amsterdam (VU Amsterdam)
+Master of Science (MSc), Business Analytics · (2016 - 2019)
+
+Vrije Universiteit Amsterdam
+Minor, Business Analytics · (2015 - 2015)
+
+Vrije Universiteit Amsterdam
+Bachelor of Science (BSc), Business Analytics · (2013 - 2016)
+
+Contact
+www.linkedin.com/in/
+stevenpostmus (LinkedIn)
+www.stevenpostmus.nl (Personal)
+
+Top skills
+Data Science
+Python
+Project Planning
+
+Languages
+Dutch (Native or Bilingual)
+English (Full Professional)
+Certifications
+MSc Business Analytics
+BSc Business Analytics
+
+
+linkedin-19
+
+Srinivas Pradeep
+
+Digital Transformation - AI| Decision Intelligence | Automation | ML|
+DL| Cloud Computing| Digital Marketing
+The Hague
+
+Summary
+***Hands on Experience in Deep learning, Machine learning,Data
+Enthusiast with 16 years of experience in- Statistical and Modeling
+Techniques, Applying Machine Learning algorithms in Python and R,
+- Developing Models,
+- Model Evaluation
+- Model validation
+- Deployment of Models
+ML Pipeline, Data Pipeline,
+Mathematics for Machine learning
+Data visualisation
+MLOps
+Build Machine Learning Models with Azure Machine Learning
+Designer
+Management Experience - Stakeholder Management, Team
+management (6 years) , Project Management, Delivery.
+Domain : HR (Human Resource), Banking , Finance , Manufacturing,
+Oil&Gas
+Techniques - Machine learning and Deep Learning.
+Supervised and unsupervised learning algorithms (such as Random
+Forests, Gradient Boosting, Deep Neural Networks, Logistic
+Regression, SVM, KNN, K-Means clustering, Isolation forests ,
+Ensemble Modeling.
+Deep learning : Neural Network , CNN, RNN, Image Captioning,
+Neural Machine Translation
+Github https://github.com/sriprad
+Technical Skills - Python , R , C++, Altreyx, Spotfire, Tableau, SQL ,
+Postgresql
+
+NLP - BERT, word2vec, Glove, Transformer
+Deep learning Framework - PyTorch, Keras
+Cloud Computing - AWS, Azure, Google Cloud
+Web development using Flask
+
+Experience
+Glencore
+Digital Transformation & Data Scientist
+October 2020 - Present (8 months)
+Den Haag, South Holland, Netherlands
+
+Shell
+Senior Data Science Professional
+
+November 2018 - October 2020 (2 years)
+The Hague Area, Netherlands
+1. Application of Machine learning / Deep Learning in Sub Surface and Wells
+Engineering.
+Tools - Python , ML Pipeline, Git, Azure
+Visualization - Spotfire
+2. Developing ML pipeline for Human Resource Analytics.
+Tools - Python, R, Alteryx
+
+Mercedes-Benz India Pvt. Ltd.
+Senior Data Scientist
+
+October 2016 - November 2018 (2 years 2 months)
+Bengaluru, Karnataka, India
+Application of Machine learning and Deep learning in Engineering Problems.
+Tensorflow, Theano , Keras , R, Python, OpenCV.
+Developing Models for Advance Driver Assistance System.
+Developing proof of concept for Machine learning problems in Quality
+Department (US)
+
+HSBC
+Lead Manager Decision Science
+
+December 2014 - October 2016 (1 year 11 months)
+Bangalore
+Application of Data Science in HR Analytics - Human Capital Management
+
+Developed the Dashboard solving very old problem of Balancing scorecard
+for Finance and HR . Awarded with Delivering the promise for successful
+implementation.
+
+FORD
+Deputy Manager
+
+October 2011 - December 2014 (3 years 3 months)
+Applied Statistics and Machine learning in Automotive Space (Tools - SAS, R)
+Researching data, products, processes, and/or services for the purpose of
+improving said data, products, processes, and/or services
+Deliverable include valuable insights from specific research projects, synthesis
+of consumer insights with internal sales data, syndicated studies, and
+competitive intelligence
+Various qualitative and quantitative research processes, including: needs
+assessments, concept testing, ad testing & tracking, customer profiling,
+satisfaction and loyalty, brand tracking & competitive assessment, shopping,
+retention and defection
+Customer Segmentation: identifies strengths, weaknesses and opportunities
+in the current customer base, opportunities and challenges for growing the
+customer base
+• Reviewing and evaluating research results and making appropriate
+recommendations to management
+• Attending meetings with management and/or clients, when appropriate, to
+determine project purpose and research needs
+
+Responsible for the smooth execution of projects assigned, from the stage of
+client briefing to the final stage of report writing and presentation of results
+• Design and plan research projects following client briefing and needs
+• Design questionnaires and methodologies of collecting information
+• Manage the execution of projects, inform clients on progress and give
+specific instructions to other departments
+• Contribute towards coaching and training of trainee
+• Work on the analysis and interpretation of results, provide feedback to
+clients, write reports and recommendations, and present results of study
+
+Genpact
+Assistant Manager
+
+July 2010 - October 2011 (1 year 4 months)
+Bengaluru, Karnataka, India
+Team lead in Handling end to end project on Credit card fraud modeling
+Handling team of 3 FTE.
+Delivering critical reports to senior stakeholders
+Tools - SAS, SQL
+
+Tata Consultancy Services
+Statistician
+
+August 2007 - July 2010 (3 years)
+Application of statistical model in Retail analytics
+Developed proof of concepts (Building predictive models) for Banking, Airline
+industry.
+Awarded the best project for lean six sigma.
+Tools - SPSS, SAS
+Techniques - Logistic Regression , Dimension Reduction technqiues.
+
+JPMorgan Chase & Co.
+Statistician
+
+October 2006 - August 2007 (11 months)
+Mumbai, Maharashtra, India
+- Worked as a strategy analyst for credit card collections team.
+- Delivered Projects on Credit card delinquency and model monitoring.
+Tools - SAS, SQL
+
+Genpact
+Business Analyst
+
+February 2006 - October 2006 (9 months)
+Gurgaon, Haryana, India
+Handling the Global Energy database and the reporting.
+Handling the hiring of statisticians
+Tools - SAS, SQL
+
+marketRX India Pvt Ltd.
+Senior Research Analyst
+
+December 2004 - February 2006 (1 year 3 months)
+Researching data, products, processes, and/or services for the purpose of
+improving said data, products, processes, and/or services
+
+o Deliverables include valuable insights from specific research projects,
+synthesis of consumer insights with internal sales data, syndicated studies,
+and competitive intelligence
+o Various qualitative and quantitative research processes, including: needs
+assessments, concept testing, ad testing & tracking, customer profiling,
+satisfaction and loyalty, brand tracking & competitive assessment, shopping,
+retention and defection
+o Customer Segmentation: identifies strengths, weaknesses and opportunities
+in the current customer base, opportunities and challenges for growing the
+customer base
+• Reviewing and evaluating research results and making appropriate
+recommendations to management
+• Attending meetings with management and/or clients, when appropriate, to
+determine project purpose and research needs
+
+Education
+The University of Georgia
+Associate's degree, Marketing Research · (2013 - 2014)
+
+International Conference on Statistics
+· (2017 - 2017)
+
+Udacity
+Deep Learning Nano Degree, Deep Learning · (2017 - 2017)
+
+Indian Statistical Institute
+Certification - Advance Business Analytics, Analytics · (2014 - 2014)
+
+Anna University
+Master of Business Administration (MBA), Finance, General · (2008 - 2010)
+
+Contact
+www.linkedin.com/in/srinivaspradeep-1469432 (LinkedIn)
+
+Top Skills
+Brand Awareness
+Brand Development
+Brand Equity
+
+Languages
+German (Limited Working)
+
+Certifications
+Deep learning Nano degree
+Prinicple of Market Research
+NLP Nanodegree
+Advance Analytics Course
+Deep Learning Specialization
+
+Honors-Awards
+Gold Medalist - Outstanding
+Academic Performance
+Six Sigma Project - Second Prize
+Delivering the Promise
+
+
+linkedin-20
+
+Nienke Korsten (PhD)
+Data Scientist
+Almere
+
+Summary
+The essence of what motivates me is quality leading to predictive
+value. With my analytical mind and science based approach I
+see many opportunities to advise on concrete practical issues.
+Quantifiable results are important to me and I need to feel that I can
+make a difference in order to be content with where I am and what
+I do. In my PhD, I much enjoyed worked on a modeling approach
+to gain insight into the production of emotions in the human brain.
+Now, I benefit from the experience I gained giving international
+presentations, publishing papers and working with highly abstract
+subject matter with a large diversity of data levels and types in the
+context of a complex research process. I use these skills on a daily
+basis in my work as a business intelligence consultant and data
+scientist.
+Semantics is a favorite subject of mine since this is where data
+touches on information, which is in my eyes a major asset for
+any organisation; data alone have no intrinsic value, it is the
+ability to draw meaningful conclusions from the data that brings
+progress, control, development, commercial finetuning, mobility, etc.
+Supporting the organization and its management by translating data
+into information in a proactive role is my passion. In doing so, I draw
+equally on my analytical capacities and my social competences.
+This is the focus of my personal professional development, in which
+I find learning, learning and then learning some more is absolutely
+essential. I want to expand my expertise and move towards bigger
+and better challenges continuously.
+Experienced in: Machine Learning, Data Mining, Predictive Analytics,
+Clustering, AI, Neural Networks. Programming Languages: Java,
+Python, C++, R, SAS, SPSS, PHP, SQL, Big Data: Hadoop, Pig,
+Hive, MapReduce.
+
+Experience
+
+LeasePlan
+Data Scientist
+
+December 2018 - Present (2 years 6 months)
+Amsterdam Area, Netherlands
+
+Rijkswaterstaat
+Senior Data Scientist, predictive analytics
+
+April 2016 - December 2018 (2 years 9 months)
+Utrecht
+- Predictive analytics projects
+- - Providing prognostic HR management information through forecasting
+analyses and dashboarding in SAS Visual Analytics
+- - Predictive maintenance
+- Restructuring of all HR related management information throughout RWS to
+be SAS-based, from data gathering to dashboarding
+- Advising the CDO regarding data management and modelling throughout the
+organisation using e.g. object modeling
+- Restructuring financial data to make it available in SAS
+- Functioning as stakeholder of behalf of the SAS Advanced Analytics users for
+the IT department
+
+EOM Data Solutions BV
+Data Scientist & SAS BI Consultant
+
+July 2013 - March 2016 (2 years 9 months)
+EOM is a Business Intelligence consultancy business where data
+warehousing, business intelligence and SAS software are the main focal
+points.
+
+Nederlandse Voedsel en Warenautoriteit - NVWA
+Text Mining
+June 2015 - January 2016 (8 months)
+
+Using SAS Text Miner to gather (predictive) information from the reporting
+system through which the general public can report cases of e.g. maltreatment
+of animals or suspected food poisoning from a particular food purchase.
+
+NAM BV Assen
+SAS Trainer, Consultant
+
+April 2015 - June 2015 (3 months)
+Sappemeer
+
+At NAM, I give SAS training to show the already experienced 'Wikker' case
+developers how to make even better use of SAS Enterprise Guide in their
+projects. This project is focused mainly on controlling and optimising chemical
+and mechanical processes across a range of locations. I also help to improve
+on existing work,
+
+Lacent BV
+SAS Business Consultant
+
+July 2013 - March 2015 (1 year 9 months)
+Lacent is the organization that develops, maintains and administrates the
+financial products for wehkamp.nl. One of my responsibilities was to produce
+reports in support of management decision making. Another lied in gaining
+insight in the quality of operational processes through development and
+implementation of a control framework. To me, protecting data and process
+quality is one side of the coin of which data analysis is the other; both are
+equally essential in gaining a strategic advantage from data.
+
+The Earth Collection Netherlands
+Management support at The Earth Collection Netherlands
+January 2010 - June 2013 (3 years 6 months)
+
+In my advisory role with a small import business of ecological goods,
+with short lines of communication, I had the opportunity to experience
+entrepreneurship close at hand. Amongst my responsibilities was the
+communication with purchasers and the process of international purchase of
+goods and negotiation.
+
+Education
+Kings College London
+Doctor of Philosophy (PhD), Computational Neuroscience · (2005 - 2010)
+
+Universiteit Utrecht / University of Utrecht
+Master of Science (MSc), Cognitive Neuroscience · (2002 - 2005)
+
+University College Utrecht
+Bachelor's Degree, Artificial Intelligence · (1999 - 2002)
+
+De Meergronden
+VWO · (1996 - 1999)
+
+Contact
+www.linkedin.com/in/nienkekorsten-phd-669b9919 (LinkedIn)
+
+Top Skills
+Data Science
+Data Analysis
+Research
+
+Languages
+French (Limited Working)
+English (Native or Bilingual)
+German (Limited Working)
+
+Certifications
+SAS Certified Advanced
+Programmer for SAS 9
+Reproducible Research
+Enabling Technologies for Data
+Science and Analytics: The Internet
+of Things
+Data Scientist with Python
+DS102X: Machine Learning for Data
+Science and Analytics
+
+Publications
+Connectionist Models of Emotion
+Neural substructures for appraisal in
+emotion: self-esteem and depression
+Biological and Computational
+Constraints to Psychological
+Modelling of Emotion
+Neural Architectures for an Appraisal
+Basis of Emotion
+e-CF in de Praktijk
+
+
+linkedin-21
+
+Gerard Meester
+
+Data Scientist working in the data lab of the Inspectie SZW, and
+music-lover
+Maassluis
+
+Summary
+I work for the department Analysis and Research (A&O in Dutch) of
+the Labour Inspection (Inspectie SZW).
+Professional Experience:
+- Data Science;
+- Risk profiling;
+- Enforcement policy in the field of Labour and Migration;
+- Information driven fraud detection;
+- Knowledge systems,
+Data Science is my passion. I develop predictive models, mainly in
+R.
+
+I am the kind of person who wants to create something together with
+other enthusiastic and driven people.
+I get energy from taking part in innovative projects.
+On the contrary am allergic to lengthy meetings and bureaucracy.
+Instead: I like creative and out of the he box ways of working
+together, and presenting solutions in a visual way. I prefer to work in
+a small team.
+In an easygoing atmosphere. Together with passionate people, who
+have a good sense of humor.
+In all this it is obviously important to listen carefully to the customer
+or internal client who wants to get things done.
+---- outside of work there is more in life ---I think education is a right for all people.
+Because it gives them the opportunity to build a better future.
+I am therefore in my free time commited to helping people who want
+to learn new skills.
+
+Think of learning the Dutch language or learning Computational
+skills.
+For this reason I am together with friends from the Netherlands
+involved in the Yuvalok school in India.
+Together with other professionals in Data Science, ICT and
+Education I have started a LinkedIn Group DALI: Data Scientists who
+Love India.
+The idea is to team-up with local Indian schools in order to educate
+children from underprivileged backgrounds in India in the age of 9-15
+in computational skills needed to become a Data Scientist.
+My ideas in this whole area are still evolving, so feel free to give me
+ideas or practical help in this area. I would really appreciate it.
+And I am very fond of singing, so if you like to sing duets, or play
+guitar ....
+
+Experience
+Inspectie SZW
+7 years
+
+Data Scientist
+
+June 2014 - Present (7 years)
+Developing datadriven risk profiles. The goal of these risk profiles is targeting
+the right addresses to inspect.
+Recently I have a special interest in the subject of the explanation of predictive
+models, and the way you can get feedback on the models from your uses, with
+help of the right explanations.
+And an interest in what Deep Learning models can bring the ISZW.
+
+Senior Researcher
+
+June 2014 - Present (7 years)
+The Hague Area, Netherlands
+Developing data-driven risk profiles in the domain of work and income, with
+predictive modeling techniques.
+Projectmanagement in the area of risk profiling.
+
+Immigratie- en Naturalisatiedienst (IND)
+Senior Adviser Information Driven Enforcement
+2009 - May 2014 (5 years)
+
+Run law enforcement projects in the field of immigration.
+Developing risk profiles for immigration purposes.
+
+Immigratie- en Naturalisatiedienst (IND)
+Sr. ICT advisor / ICT projectmanager
+2001 - 2006 (5 years)
+The Hague Area, Netherlands
+
+Run projects in the field of immigration.
+Write definition studies on behalf of internal clients.
+
+ING
+Information Architect
+
+October 1996 - April 2001 (4 years 7 months)
+Worked on the enterprise architecture at the Postbank.
+
+Raet
+Information Analist / Designer
+
+September 1984 - October 1996 (12 years 2 months)
+Work for several government institutions and companies as developer and
+information analist, like ABN-AMRO, GEP, Delta Lloyd.
+
+Vrije Universiteit Amsterdam
+Jr. advisor at ICT department
+
+September 1983 - September 1984 (1 year 1 month)
+Process design
+
+Education
+University of Utrecht
+Propedeuse, Cognitive Artificial Intelligence · (1991 - 1992)
+
+Erasmus Universiteit Rotterdam
+Master Development Economics, Development Economics and International
+Development · (1977 - 1983)
+
+Christelijk Lyceum Apeldoorn
+Atheneum B, atheneum · (1971 - 1977)
+sondorpschool
+Lager onderwijs · (1971 - 1976)
+
+Nyenrode Business University
+course enforcement data and innovation · (2016)
+
+Contact
+www.linkedin.com/in/gerardmeester-0715aa6 (LinkedIn)
+www.inspectieszw.nl/ (Company)
+
+Top Skills
+Knowledge Representation
+Data Mining
+Enforcement
+
+Languages
+English (Professional Working)
+Dutch (Native or Bilingual)
+R (Professional Working)
+
+Certifications
+Deep Learning Specialization
+Practical Predictive Analytics:
+Models and Methods
+Neural Networks and Deep Learning
+
+
+linkedin-22
+
+Jorrit Bootsma
+
+Data scientist bij Capgemini Nederland
+Amsterdam
+
+Summary
+Having completed a bachelor's in Physics & Astronomy, followed
+by a master's in Astronomy & Astrophysics I am trained to ask the
+right questions in order to better understand a certain problem, and
+to determine what data is relevant to find a solution. Furthermore, I
+have a lot of experience in translating the relevant data into useful
+insights.
+I have put this into practice in the dry eye project in which I was
+organiser, data-analyst and spokesperson.
+On personal level I have developed myself during the year I was
+vice-chairman of my study association, during the dry eye project
+and during my travels in South-America.
+In the job of my dreams I encounter a variety of societal relevant
+and/or strategic problems. The multidisciplinary team I am part of will
+solve these problems using data driven insights.
+
+Experience
+Capgemini Nederland
+1 years 11 months
+
+Data scientist
+
+November 2020 - Present (7 months)
+I lead a team of three with whom I develop software that summarizes soccer
+matches in an automated way. To determine the highlights of the game we
+make use both the audio and video data.
+
+Data scientist / Data Engineer @ ING Nederland
+June 2020 - October 2020 (5 months)
+
+In a difficult stakeholder landscape, we developed a knowledge graph
+product to connect multiple data sources in the Wholesale Banking domain. I
+created a synthetic data set that follows the same distributions as the actual
+production data. This allowed us to develop a prototype without having access
+to production data. Next to this, I was responsible for assessing data quality of
+different sources. For this I used Python (PySpark, Pandas, etc.) and SQL. I
+addressed the issues to the different data owners while maintaining their faith
+in our product.
+Finally, I assisted with the ontology development and the data pipeline
+(mapping data from a relational database to RDF).
+
+Data scientist / Software engineer @ Governmental institution
+September 2019 - June 2020 (10 months)
+
+With a team varying between 4 and 10 people we build a product that verifies
+the authenticity of identity documents. We build this product from scratch, in
+Python. The product consists of 12 microservices, each performing a step in
+the pipeline. Examples of steps are: classification, image preprocessing, text
+extraction using Tesseract (OCR), verification of textual data and verification
+of graphical data. The microservices are exposed using Flask. The product
+is build in an object-oriented way. I was responsible for the microservices
+that performed face matching, (fuzzy) string matching and multiple graphical
+verifications. Furthermore, he implemented error handling and he contributed
+to the design of the software architecture and the database model.
+
+Data Scientist
+
+July 2019 - September 2019 (3 months)
+Utrecht
+
+Researcher / Entrepreneur
+
+January 2017 - June 2019 (2 years 6 months)
+Amsterdam
+Investigate a new method of treating dry eye syndrome
+to diagnose. Besides coding a data analysis script I have the
+took responsibility for overseeing the project and the big one
+lines. I am also a contact person for various external parties
+parties and I lead the meetings that are held with them. At https: //
+ibb.co/album/iDkOGF you will find a selection of photos showing the work of
+illustrate our team.
+
+ZZP
+Tutor
+
+august 2011 - june 2019 (7 years 11 months)
+University of Amsterdam
+Student-assistent
+
+february 2014 - january 2018 (4 years)
+Science Park, Amsterdam
+Giving / assisting in Quantum Physics and Electricity courses
+& Magnetism for high school teachers (https://youtu.be/
+pHbejALvFwY);
+Giving tutorials to first-year students.
+
+Natuurwetenschappelijke Studievereniging Amsterdam
+Vice President
+March 2015 - March 2016 1 years 1 months
+Portfolio: Acquisition
+Result compared to previous years: € 17,000 in sponsor income
+for € 5,000- € 10,000 was regular: https://ibb.co/album/miDAwF.
+
+Education
+Universiteit van Amsterdam
+Master of Science (MSc), Physics and Astronomy (Astronomy and
+Astrophysics) · (2016 - 2018)
+
+Universiteit van Amsterdam
+Bachelor of Science (BSc), Natuur- en sterrenkunde · (2011 - 2016)
+
+Stedelijk Gymnasium Haarlem
+Natuur en Techniek · (2005 - 2011)
+
+Contact
+www.linkedin.com/in/jbootsma
+(LinkedIn)
+
+Top skills
+Python
+LaTeX
+Lesgeven
+
+Languages
+Dutch (Native or Bilingual)
+English (Professional Working)
+
+Certifications
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization and Optimization
+Neural Networks and Deep Learning
+Structuring Machine Learning
+Projects
+
+
+linkedin-23
+
+Mike O'Connor
+Sr. Data Scientist at Spotify
+Amsterdam
+
+Summary
+Hi, I'm Mike! I do science to data, and occasionally I take
+photographs.
+
+Experience
+Spotify
+Sr. Data Scientist
+
+March 2021 - Present (3 months)
+Amsterdam, North Holland, Netherlands
+
+Booking.com
+4 years 3 months
+
+Sr. Data Scientist - Segments Decision Intelligence
+February 2020 - March 2021 (1 year 2 months)
+Amsterdam, North Holland, Netherlands
+
+Data Scientist - Booking Home OverArching
+
+January 2019 - February 2020 (1 year 2 months)
+Amsterdam Area, Netherlands
+
+Data Scientist - Booking Home Trust Products
+October 2017 - January 2019 (1 year 4 months)
+Amsterdam, Netherlands
+
+Data Scientist - Business Bookers
+
+January 2017 - October 2017 (10 months)
+Amsterdam, Netherlands
+
+The Ritz-Carlton Hotel Company, L.L.C.
+Manager - Digital Analytics
+
+June 2015 - December 2016 (1 year 7 months)
+Website Optimization Tools and Methods
+Digital and Ecommerce Marketing Analytics
+Adobe Marketing Cloud (Reports & Analytics)
+Tableau
+
+R & RStudio
+SAS
+Python
+SQL
+
+Visit Baltimore
+Manager - Research and Data Analysis
+March 2011 - February 2015 (4 years)
+Baltimore, Maryland
+CRM
+Data Analytics
+SQL
+Project Management
+Hospitality Research
+Survey Writing
+Economic Impact Assessment
+
+Sage Policy Group, Inc.
+Research Intern
+
+October 2010 - March 2011 (6 months)
+Baltimore, Maryland
+Economic Research
+Market Forecasting
+Financial Analysis
+Policy Briefs
+
+Education
+University of Maryland - Robert H. Smith School of Business
+Master of Science (MS), Marketing Analytics · (2014 - 2015)
+
+St. Mary's College of Maryland
+Bachelor of Arts (BA), Economics · (2005 - 2009)
+
+Contact
+www.linkedin.com/in/mtoconnor3
+(LinkedIn)
+
+Top Skills
+R
+Data Analysis
+Statistical Programming
+
+Languages
+French
+
+Honors-Awards
+Phi Kappa Phi National Honor
+Society
+
+
+linkedin-24
+
+Patrick de Oude
+
+Senior Data Scientist & Lead Data Science at Ahold/Delhaize
+Amsterdam
+
+Summary
+Specialties:
+Machine learning,
+Data mining,
+Pattern recognition,
+Probabilistic modeling, learning and reasoning,
+Multi-agent systems,
+Causality.
+
+Experience
+Ahold
+Senior Data Scientist & Lead Data Science
+August 2018 - Present (2 years 10 months)
+Amsterdam Area, Netherlands
+
+Thales R&T NL/ D-CIS Lab
+8 years 3 months
+
+Senior Researcher
+
+January 2011 - August 2018 (7 years 8 months)
+Delft Area, Netherlands
+Artificial Intelligence researcher with a specialty in machine learning/data
+mining working on data analysis and implementation of machine learning and
+data mining algorithms for complex real world problems
+Information fusion expert focusing on application of (distributed) probabilistic
+models to interpret data for situation awareness and decision making
+Developer of an interoperability and information management middle-ware
+platform for (ad-hoc) sharing of data/information between humans, devices,
+data stores, analysis processes for complex situation awareness and decision
+making tasks in various problem domains.
+
+Freelance Researcher
+
+June 2010 - January 2011 (8 months)
+Universiteit van Amsterdam
+6 years
+
+PhD Student
+
+April 2006 - May 2010 (4 years 2 months)
+
+Java Software Developer
+2004 - 2010 (6 years)
+
+During my master and PhD studies I work as a parttime software developer
+at the University of Amsterdam. My job responsibilities are implementation,
+testing/debugging and maintaining a multi-agent system, based on the
+Cougaar framework, for distributed information fusion. Currently, I'm involved
+building a prototype of this system for the DCMR Milieudienst Rijnmond for
+detection and leak localization of (toxic) gases using sensors and humans
+as information sources. Such systems are crucial in the crisis management
+domain where reliable and quick state estimation is mission critical.
+
+StreamMedia
+PHP/SQL/Flash developer
+2003 - 2004 (1 year)
+
+Development of an online job offering website using dynamic web pages and
+database interaction.
+
+Education
+University of Amsterdam
+MSc, Artificial Intelligence - Intelligent Systems · (2004 - 2006)
+
+University of Amsterdam
+BSc, Artificial Intelligence · (2000 - 2004)
+
+Contact
+www.linkedin.com/in/pdeoude
+(LinkedIn)
+staff.science.uva.nl/~poude (Other)
+
+Top Skills
+Pattern Recognition
+Machine Learning
+Multi-agent Systems
+
+
+linkedin-25
+
+Michael Snow
+
+Technical Manager, and Data Science Lead for IKEA's A.I.
+Operations Group
+Amsterdam Area
+
+Summary
+Data scientist with over 7 years of experience. Currently the
+data science lead for IKEA's A.I. Operations group, using NLP,
+forecasting, and machine- and deep-learning to automate business
+processes.
+My achievements include graduating top of my university, winning
+an award for outstanding achievement in mathematics and statistics;
+winning a postgraduate research scholarship; building an end-to-end
+predictive maintenance model to predict asset health for the Dutch
+railway system; and developing and productionising 12 models for
+the IKEA group, generating predicted savings of over €4million per
+annum.
+My key skills include:
+● Mathematical and statistical modelling for predictive maintenance
+& classification problems
+● Programming in Python, Matlab, SQL, with extensive experience
+using libraries such as SciPy, NumPy,
+Scikit-Learn, Pandas, Keras and more
+● Supervised and Unsupervised Machine & Deep Learning
+● Deep learning including CNNs, Autoencoders, LSTMs
+● Dimensionality reduction: PCA/SVD, multidimensional scaling, tSNE, Autoencoders
+● Natural language processing, including nltk, word2vec, regex
+● SQL databases including PostgreSQL & Oracle
+● Extensive problem solving
+
+Experience
+IKEA Group
+Data Science Lead
+
+March 2019 - Present (2 years 3 months)
+Helsingborg, Sweden
+●
+
+Data science lead for IKEA's A.I. operations group. We use NLP,
+
+forecasting and Machine and Deep Learning to automate business processes.
+●
+
+Implemented 11 different Machine and Deep Learning solutions into
+
+production with estimated annual savings of over 4 million.
+●
+
+Solutions developed and deployed using Cloud Technologies
+
+●
+
+Solutions include:
+
+●
+
+Automating the routing of service desk requests using NLP and deep
+
+learning
+●
+
+Forecasting demand using time series modelling
+
+●
+
+Sentiment analysis and classification of app reviews
+
+●
+
+Database outage prediction using Autoencoders
+
+HCL Technologies
+Technical Manager and Data Science Lead
+March 2019 - Present (2 years 3 months)
+Amsterdam Area, Netherlands
+
+Bristol Robotics Lab
+Ph.D. researcher in Machine Learning and Applied Mathematics
+(writing up stage)
+October 2014 - Present (6 years 8 months)
+Bristol, United Kingdom
+●
+
+Ph.D. Focus: Pattern recognition in machine vision.
+
+●
+
+Collaboration with an industrial partner detecting complex anomalies in
+
+image data.
+●
+
+Specialising in optimal transportation methods for machine learning and
+
+data visualisation.
+
+Dutch Analytics
+Data Scientist
+
+March 2018 - March 2019 (1 year 1 month)
+Delft Area, Netherlands
+●
+
+Working on predictive maintenance problems in collaboration with Royal
+
+BAM group predicting track maintenance routines.
+●
+
+Working with Friesland Campina developing anomaly detection models to
+
+help maintain their assets.
+●
+
+Using machine and deep learning techniques to develop predictive models
+
+and online anomaly detection models.
+●
+
+Developing end-to-end production ready software for a commercial
+
+environment.
+
+Snow Predictive Analytics Ltd.
+Data Science Consultant
+
+August 2017 - March 2018 (8 months)
+Contracted as a Data Scientist for the Office of National Statistics, based in
+their Big Data and Research team. (Sep 2017 - Mar 2018)
+●
+
+Extracting data from web sources.
+
+●
+
+Performing image processing and optical character recognition (OCR) to
+
+extract data.
+●
+
+Constructing predictive classification models using natural language
+
+processing (NLP),
+dimensionality reduction and clustering. Tools included word2vec, SVD and tSNE.
+●
+
+Converting Python code to PySpark
+
+University of the West of England
+Associate Lecturer in Mathematics
+
+September 2015 - August 2017 (2 years)
+Bristol, United Kingdom
+● Taught tutorial groups in mathematics and MATLAB programming.
+● Responsibilities include marking exams, class preparation and
+administration.
+
+Education
+University of the West of England
+BSc (Hons), Mathematics, Mathematics · (2011 - 2014)
+
+University of the West of England
+Doctor of Philosophy (Ph.D.), Computational and Applied
+Mathematics · (2014 - 2018)
+
+Contact
+www.linkedin.com/in/michael1snow
+(LinkedIn)
+
+Top Skills
+Research
+Matlab
+Statistics
+
+Certifications
+Structuring Machine Learning
+Projects
+Convolutional Neural Networks
+Neural Networks and Deep Learning
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization and Optimization
+Sequence Models
+
+Honors-Awards
+Mathematics Degree with First Class
+Honours (90%)
+Access to Higher Education Diploma
+Institute of Mathematics and its
+Applications prize for outstanding
+performance
+
+Publications
+The Monge-Kantorovich Optimal
+Transport Distance for Image
+Comparison
+Unsupervised Document Clustering
+with Cluster Topic Identification
+Monge's Optimal Transport Distance
+for Image Classification
+
+
+linkedin-26
+
+Simone Ladisa
+
+Data Scientist Consultant at MarketRedesign
+Utrecht
+
+Summary
+Curious, ambitious and passionate are three key ingredients to
+describe myself.
+I have successfully completed my two years Master in Data Science
+and Entrepreneurship at Jheronimus Academy of Data Science
+(JADS) in Den Bosch (the Netherlands).
+Along with the full time master of science, the last two years have
+been enriched by experiences in company such as TomTom as
+intern for over one year, and at Tilburg university as Data Scientist
+student assistant last six months.
+
+Experience
+MarketRedesign
+Data Scientist Consultant
+
+March 2020 - Present (1 year 3 months)
+Netherlands
+
+Tilburg University
+Student Assistant
+
+June 2019 - December 2019 (7 months)
+Tilburg Area, Netherlands
+The goal of the project was to create a generalized framework to video track
+people in a crowd scene, and eventually recognize anomalous trajectory. This
+work is a step toward deploying sophisticated data science approaches for
+video surveillance. The project:
+Extract people movement from camera videos, for this task object recognition
+pre trained model was used.
+Multiple camera sources data fusion deploying Unscented Kalman Filters.
+Exploit dimensionality reduction algorithm and clustering technique for
+anomalies trajectories detections.
+
+TomTom
+Data Scientist Intern
+
+February 2018 - April 2019 (1 year 3 months)
+Amsterdam
+I conducted a study on user behaviour, applying unsupervised learning on big
+datasets. The outcome of my study was deployed by marketing department to
+adjust products pricing based on users' usage. I have experienced unlabelled
+datasets, clustering algorithms and multidimensional data.
+Improved precision of over 50% of the navigation department (NAV) software
+development tracking tool, which is adopted for team performance and predict
+team velocity. In this regard I applied regressions algorithms and improved my
+data visualization skills.
+
+Cambridge Humanae
+Data Scientist Intern
+
+December 2017 - February 2018 (3 months)
+s'hertogenbosch
+I created a platform deployed to collect and analyse data from users.
+I helped the startup with data visualization and analysis of users behaviour.
+
+Costa Coffee
+Assistant Manager
+
+February 2016 - August 2017 (1 year 7 months)
+London, United Kingdom
+Awarded as best Costa Coffee shop for two months among the over three
+thousand shops in the whole UK, KPI performance such as customer reviews,
+profits etc.
+My daily tasks involved running and supporting the store efficiency. People
+management, coaching, mentoring and developing team members skills to
+exceed potential. I am well-organized, good at prioritizing and managing time.
+
+Education
+Jheronimus Academy of Data Science
+Master of Science - MS, Data Science and Entrepreneurship · (2018 - 2020)
+
+Eindhoven University of Technology
+Pre-master Program, Data Science & Entrepreneurship, Data
+Science · (2017 - 2018)
+
+Politecnico di Bari
+Bachelor of Science degree, Computer System Engineer · (2007 - 2014)
+
+ITIS Guglielmo Marconi - Bari
+Senior High School Degree, Information Technology · (2002 - 2007)
+
+Contact
+www.linkedin.com/in/ladisasimone
+(LinkedIn)
+
+Top Skills
+Python
+Machine Learning
+Programming
+
+Languages
+Inglese (Professional Working)
+Spanish (Professional Working)
+Italiano (Native or Bilingual)
+
+Certifications
+Pivot Tables - From Novice to Ninja
+European Computer Driving Licence
+Microsoft Excel - Basic
+Microsoft Excel - Advanced
+
+Honors-Awards
+Mobile Development Award 2013
+
+
+linkedin-27
+
+Bob Grijpstra
+
+Data Scientist and Data Engineer
+Tilburg
+
+Experience
+Building Blocks
+Data Scientist and Data Engineer
+May 2013 - Present (8 years 1 month)
+
+Languages
+English (Full Professional)
+Dutch (Native or Bilingual)
+
+Education
+Tilburg University
+Econometrics and Operations Research · (2009 - 2013)
+
+Contact
+www.linkedin.com/in/bobgrijpstra
+(LinkedIn)
+
+Top skills
+Data Science
+Data Engineering
+Predictive Analytics
+
+
+linkedin-28
+
+Olivier Brouwer
+Data Scientist at Vattenfall
+Amsterdam
+
+Summary
+Great amounts of data are generated every second from all different
+sources like customer interactions, the web and applications. My
+passion lies in combining all this information to guide strategic
+decision making and to create valuable, actionable data products.
+Skills: Databricks, Hadoop, PySpark, MLlib (Machine learning with
+Spark), Airflow, Python (including Numpy, Pandas, scikit-learn),
+Dash (build interactive analytic apps with python as backend ),
+Azure functions, Azure Webapps, AzureML, AzureDevOps, MLOps,
+Docker, R, Webscraping, SSAS, SSIS, Knime, SQL server, Toad for
+Oracle, SPSS, TIBCO Spotfire, Microsoft Office, Thinkcell, Piramid
+principle (story telling).
+Specialties: Transforming big data into valuable, actionable data
+products and insights.
+
+Experience
+Vattenfall
+Data Scientist
+
+July 2015 - Present (5 years 11 months)
+
+ABN AMRO Bank N.V.
+Senior Customer Intelligence Analist
+
+September 2014 - June 2015 (10 months)
+
+KPN
+Senior Customer Intelligence Analyst
+
+December 2013 - August 2014 (9 months)
+
+KPN
+Customer Intelligence Analist
+
+September 2008 - August 2013 (5 years)
+- Advising commercial departments and management on new proposition
+development, growth and retention strategies based on customer analytics.
+- Creating and maintaining prediction models for optimization of below-the-line
+marketing campaigns.
+- Developing detailed reports for marketing, distribution, commercial planning
+and the sales
+organization to assist in strategic decision making processes.
+- Evaluate the effectiveness of marketing campaigns in terms of acquisition,
+growth, value and retention objectives.
+
+Nederlandse Spoorwegen
+Trainee MIacademy programma
+
+November 2011 - February 2012 (4 months)
+Utrecht
+Purpose of this internship (part of the Miacademy program) was to investigate
+how the online marketing (measurement) process can be optimized and
+what the potential is in terms of extra sales and cost savings. The process is
+mapped, optimized and coordinated with all stakeholders.
+
+Nuon
+Trainee MIacademy programma
+
+February 2010 - April 2010 (3 months)
+Amsterdam
+Purpose of this internship (part of the Miacademy program) was to predict the
+expected customer
+value of non-customers in order to approach the most value prospects. The
+prediction model has
+proved to be successful in terms of customer value and is implemented in the
+organization.
+
+De Raad Vastgoed
+Marktonderzoeker (afstudeerder)
+
+February 2005 - June 2006 (1 year 5 months)
+Katwijk
+Verantwoordelijk voor de opstelling van een strategisch marketingplan met als
+doel om de winstgevendheid van een kantorenpand te optimaliseren.
+
+Palace Hotel
+Marktonderzoeker (stage)
+
+September 2003 - March 2004 (7 months)
+Noordwijk
+Verantwoordelijk voor de opstelling, uitvoering en verwerking van een
+gastentevredenheid onderzoek met als doel advies te geven aan het
+management wat betreft het algemene beleid van het hotel.
+
+Education
+GoDataDriven
+Data Science Accelerator Program · (2017 - 2017)
+
+MIcompany
+Marketing Intelligence Academy · (2008 - 2011)
+
+Vrije Universiteit Amsterdam
+Master, Marketing · (2006 - 2008)
+
+Hogeschool voor Economische Studies Amsterdam (HES)
+Bachelor, Commerciele Economie · (2001 - 2005)
+
+Contact
+www.linkedin.com/in/olivierbrouwer-195b5a37 (LinkedIn)
+
+Top Skills
+Online Marketing
+Data Analysis
+SPSS
+
+
+linkedin-29
+
+Raynold Siem
+
+Analytics business partner Online Store EU at Philips | Data Scientist
+Randstad
+
+Summary
+Creating value out of Data
+
+Experience
+Philips
+3 years 8 months
+
+Analytics Business Partner Philips Online Store (Europe) & Data
+Scientist
+March 2021 - Present (3 months)
+Amsterdam
+
+Marketing Insights & Analytics Business Partner Consumer Store Europe
+(D2C).
+
+Lead Consultant & Data Scientist
+
+January 2020 - March 2021 (1 year 3 months)
+Lead Consultant & Data Scientist – Team: Enterprise Information Management
+- Insights & Analytics.
+Lead Consultant for the development team (7 members) of the Philips 'Faster,
+Better, Smarter' Activation Track.
+• Faster by Data Engineering (automating data collection, data cleaning and
+data visualization).
+• Better by Data Integration (combining data sources to better understand our
+campaigns).
+• Smarter by understanding the past and the future (by implementing
+Dashboards and AI).
+Data Scientist (key projects):
+• Speech to Text (Transform huge amounts of audio files into text. Present the
+-anonymized- actionable results in a Dashboard)
+• Television (Dashboard that shows the impact of our TV advertisements on
+online traffic).
+• Integrated Uplift (Predict the number of ‘Add to Carts’ based on media spend
+and provide the business actionable insights from the model).
+
+Main Tools:
+• Python, Spark (PySpark), Azure Databricks, SQL and Qlik.
+
+Data Scientist
+
+October 2017 - March 2021 (3 years 6 months)
+Eindhoven Area
+Data Scientist - Team: Enterprise Information Management - Insights &
+Analytics.
+Projects in different domains of Philips:
+• Marketing & E-Commerce.
+• Health Care & Innovation.
+• Manufacturing.
+• Research.
+Data Science Experience:
+• Dealing with a lot of data (e.g. Factory data & Philips website data).
+• Predictive modelling (e.g. Machine failure, Search Rank, brand preferences).
+• Text Mining & NLP (e.g. Patent Documents, customer deep dives).
+• Web Scraping (e.g. collects data from different websites).
+• Dashboards (e.g. visualized Data Science results -automated- in
+dashboards).
+• Data Engineering (e.g. Digital Factory data).
+
+Verdonck, Klooster & Associates (VKA)
+Consultant Data Science
+
+August 2016 - October 2017 (1 year 3 months)
+Zoetermeer
+Consultant in the field of Data Science.
+• Data-driven working.
+• Data analysis | R(Studio).
+• Data visualisations & Dashboards | Tableau.
+
+TNO
+Research Assistant
+
+January 2015 - September 2016 (1 year 9 months)
+Delft Area, the Netherlands
+Several projects in the Strategy & Policy team.
+‘Framework conditions for high-growth innovative enterprises’
+• Visualise data.
+• Analyse data.
+‘Connecting Creative Technologists’
+• Researcher.
+
+Heijmans
+Data Science Internship
+
+December 2015 - August 2016 (9 months)
+Rosmalen
+Train machine learning models to predict households energy consumption.
+• Data preprocessing.
+• Data visualisation.
+• Machine learning / Time Series Analysis.
+• ARIMA and Gaussian Processes.
+• Language: R(Studio).
+
+Centrum voor Reuma en Revalidatie Rotterdam
+Employee
+June 2009 - June 2016 (7 years 1 months)
+Rotterdam
+
+VVD
+Strategy Internship
+
+February 2015 - July 2015 (6 months)
+Den Haag Area, the Netherlands
+Contributed to develop a new party structure, for the VVD
+Focus on:
+• Analyzing qualitative data.
+• Visualizing qualitative data.
+
+Stichting voetbalintermediair
+Founder
+2012 - 2014 (2 years)
+
+Foundation with as goal to improve the sportsmanship between football
+teams.
+
+Our website made it possible to arrange friendly games, with the opportunity to
+rate the other team on the basis of sportsmanship.
+
+Schadefonds Geweldsmisdrijven
+Research Internship
+
+2013 - 2013 (less than a year)
+Rijswijk, Provincie Zuid-Holland, the Netherlands
+Research: Investigate reputation damages for paying compensations to the
+victims of ‘Project X’ in Haren.
+
+Education
+Tilburg University
+Master of Science (MSc), Master: Data Science · (2015 - 2016)
+
+Erasmus Universiteit Rotterdam
+Master of Science (MSc), Master: Public Administration (Public
+Management) · (2014 - 2016)
+
+Contact
+www.linkedin.com/in/raynoldsiem
+(LinkedIn)
+
+Top skills
+Data Science
+R
+Python
+
+Certifications
+Black belt, 1st dan: Tang Soo Do
+SP821-Az: ETL Part 2:
+Transformations and Loads (Azure
+Databricks)
+SP850-Az: Structured Streaming
+(Azure Databricks)
+SP863-Az: MLflow: Managing the
+Machine Learning Lifecycle (Azure
+Databricks)
+SP820-Az: ETL Part 1: Data
+Extraction (Azure Databricks)
+
+
+
+linkedin-30
+
+Rick van Sintmaartensdijk
+Data Scientist at Dept
+Rotterdam
+
+Summary
+Consulting in and applying end-to-end Data Science and Machine
+Learning in a digital marketing context.
+Coming from a broad bachelor in Business Administration and a job
+in cold-acquisition sales at Red Bull. I discovered my huge interest in
+Big Data, AI and the way this will impact society and businesses.
+I specialized during my Masters in Business Information
+Management on a management theory level and got my hands dirty
+during my thesis at VIVAT and in my job as a data scientist at Dept.
+
+Ervaring
+Dept Agency
+3 years 2 months
+
+Data Scientist
+
+August 2018 - Present (2 years 10 months)
+Rotterdam Area, the Netherlands
+
+Trainee Data Consultant
+
+April 2018 - August 2018 (5 months)
+Rotterdam Area, the Netherlands
+Traineeship at Dept Agency where I specialized in consulting in Data
+Management (Web analytics - JavaScript, SQL) and Data Science (End-to-end
+Machine Learning - Python and R).
+
+Expand Online
+Trainee Data Consultant
+
+January 2018 - April 2018 (4 months)
+Rotterdam
+Traineeship at Expand Online where I specialized in Data Management (Web
+analytics - JavaScript, SQL) and Data Science (End-to-end Machine Learning Python and R).
+
+Red Bull
+2 years 10 months
+
+Team Captain Field Sales
+
+March 2017 - January 2018 (11 months)
+Zuid West the Netherlands
+Leading the sales team of Student Market Strikers that is active in the QSR
+market within the region South West (Rotterdam, The Hague, Leiden and
+Breda). For Red Bull, Lipton Ice Tea and Pure Leaf.
+
+Senior Student Market Striker
+
+March 2016 - March 2017 (1 year 1 month)
+Rotterdam Centrum
+Sales representative for Red Bull, Lipton Ice Tea (Unilever) and Pure Leaf
+(Unilever). Focussed on maintaining customer relationships, realizing new
+points of sale and optimizing the visibility of products in the Quick Service
+Restaurant (QSR) market.
+Extended with extra responsibilities: Mainly coaching Student Market Strikers
+getting started.
+
+Student Market Striker
+
+April 2015 - March 2016 (1 year)
+Rotterdam Area, the Netherlands
+Sales representative for Red Bull, Lipton Ice Tea (Unilever) and Pure Leaf
+(Unilever). Focussed on maintaining customer relationships, realizing new
+points of sale and optimizing the visibility of products in the Quick Service
+Restaurant (QSR) market.
+
+VIVAT
+Graduate Intern
+
+March 2017 - September 2017 (7 months)
+Amstelveen
+An internship coupled to my thesis for the MSc in Business Information
+Management. The main goals of this thesis are to define churning behaviour
+of customers, to identify the factors that influence churning behaviour and
+their strength & direction. This will be done by the development of a predictive
+model based on data mining technology.
+
+DirckIII
+Verkoopmedewerker
+
+June 2012 - April 2015 (2 years 11 months)
+
+Rotterdam
+Shop assistant at liquor store DirckIII.
+Responsible for processing sales transactions, in store product visibility,
+receiving and storing stock, advising customers and administrative tasks.
+
+Education
+Rotterdam School of Management, Erasmus University
+Master, Business Information Management · (2016 - 2017)
+
+RSM Erasmus Universiteit
+Bachelor of Business Administration (B.B.A.), Business administration /
+Bedrijfskunde / Business management / Bedrijfsmanagement · (2013 - 2016)
+
+Rotterdam School of Management, Erasmus University
+Minor, E-Marketing: Marketing Strategies for Future Success · (2015 - 2015)
+
+Gemini College
+Diploma VWO, Economie & Maatschappij · (2007 - 2013)
+
+Contact
+www.linkedin.com/in/rick-vansintmaartensdijk-30259b80
+(LinkedIn)
+
+Top skills
+Microsoft SQL-server
+RStudio
+JavaScript
+
+Languages
+Dutch (Native or Bilingual)
+English
+German
+
+Certifications
+Python Data Science Toolbox (Part
+1) Course
+Serverless Data Analysis with
+Google BigQuery and Cloud
+Dataflow
+Manipulating DataFrames with
+pandas Course
+Google Cloud Platform Big Data and
+Machine Learning Fundamentals
+Intro to Python for Data Science
+Course
+
+
+linkedin-31
+
+Daniel Linder
+
+Head of Data Science at Adyen
+Amsterdam
+
+Summary
+Check out my website to learn more about me: daniellinder.github.io
+
+
+Experience
+Adyen
+5 years 1 month
+
+Head of Data Science
+
+September 2019 - Present (1 year 9 months)
+Amsterdam Area, Netherlands
+
+Data Scientist
+
+May 2016 - September 2019 (3 years 5 months)
+Amsterdam Area, Netherlands
+• Building up the machine learning infrastructure for training, deploying and
+monitoring machine learning models in production using MLFlow.
+• Helping develop the ETL architecture
+• Building RiskEngineOptimizer - a Logistic Regression model to auto-update
+the coefficients of the fraud tool. Already in production with an improvement
+rate of 100% on all of the risk profiles it was run for.
+• Building optimization models to improve RevenueAccelerate - A product
+aimed to improve authorization rates of payments across the platform.
+Algorithms include: Deep Learning, Random Forest, Hierarchical Bayesian
+Modeling. This algorithm resulted in ~1 million euro gain per day for companies
+working with Adyen.
+• Building high level abstraction on top of PySpark to improve work of Data
+Scientists. Currently all analyses and ML models are using this abstraction.
+• Developing the back-end of Looker, helping drive insights throughout Adyen
+• Consulting large merchants (Uber, Google, Facebook, Netflix, Spotify, etc) in
+solving data problems
+
+FindHotel
+Data Scientist
+
+November 2014 - May 2016 (1 year 7 months)
+Amsterdam Area, Netherlands
+
+• Developing scalable Python-based RandomForest pricing model for
+predictive pricing of Ads
+• Building and integrating Python-based alert system with AWS Redshift to
+identify drastic performance changes automatically
+• Mining and analyzing large e-commerce datasets with Python, R, SQL,
+Qlikview
+
+GreenOn
+CEO
+
+June 2014 - April 2015 (11 months)
+Tel Aviv Area, Israel
+• CEO of mobile application that automatically recognizes all modes of
+transportation in real time and creates in depth data reports to analyze
+transportation habits
+• Helping develop algorithm for signal processing in Matlab
+• Presenting to investors, start-up competitions and conferences
+o Accepted into Eco-Motion accelerator and rewarded prize of 100,000 NIS
+o Won first place for ANWB sustainability prize in New Venture startup
+competition
+o www.greenon.mobi
+
+Microtech Medical Technologies
+Bio-Medical Engineer
+
+June 2012 - August 2014 (2 years 3 months)
+Tel Aviv Area, Israel
+• Designing and FEM modeling of piezoelement ultrasound transducer with
+COMSOL multiphysics
+• Testing and analyzing results in lab with Matlab
+• 2 years of experience in Acoustic, Chemical and Mechanical labs
+
+Heseg Innovators Program (HIP)
+Entrepreneur
+
+March 2013 - July 2014 (1 year 5 months)
+Tel Aviv Area, Israel
+Graduate of the Heseg Innovators Program
+
+Israeli Defense Forces
+Special Forces Infantry Unit
+
+November 2006 - May 2009 (2 years 7 months)
+
+Education
+Tel Aviv University
+Bio-Medical Engineering - Medical Image Processing
+Specialization · (2010 - 2014)
+
+Tel Aviv University
+Biology · (2009 - 2010)
+
+Coursera
+Online Courses · (2013)
+
+Contact
+www.linkedin.com/in/daniellinder-52b86024 (LinkedIn)
+
+Top Skills
+Data Analysis
+R
+Big Data
+
+Languages
+English (Native or Bilingual)
+Dutch (Limited Working)
+Hebrew (Native or Bilingual)
+
+Honors-Awards
+Community Service Award
+Heseg Scholarship
+
+
+linkedin-32
+
+Thomas Castelijns
+
+Data Scientist & Machine Learning Engineer
+Tilburg
+
+Ervaring
+Enexis Groep
+3 years 5 months
+
+Senior Data Scientist
+
+October 2020 - Present (8 months)
+
+Data Scientist | Strategic Consultant
+January 2018 - October 2020 (2 years 10 months)
+'s-Hertogenbosch
+
+Jheronimus Academy of Data Science
+Professional Doctorate in Engineering (PDEng) trainee Data Science
+January 2017 - January 2019 (2 years 1 month)
+'s-Hertogenbosch
+
+Trainee in the Professional Doctorate in Engineering (PDEng) program of the
+
+Jheronimus Academy of Data Science (JADS).
+
+Enexis B.V.
+3 years 1 month
+
+Technical Specialist Smart Metering
+
+September 2014 - December 2016 (2 years 4 months)
+'s-Hertogenbosch
+Technical Specialist in a multi-disciplinary team of the Smart Metering
+department of Enexis. The department is responsible for the large-scale roll
+out of smart meters in 2.7 million households by 2020. My main responsibilities
+were:
+- Defining requirements smart meters
+- Testing new smart meters and firmware versions according to the defined
+requirements
+- Analyzing performance of installed base smart meters
+- Defining and implementing metrics to improve installed base smart meters
+- Leading technical team of Netbeheer Nederland for common firmware
+updates
+
+Graduate Student - Asset Management
+
+December 2013 - September 2014 (10 months)
+'s-Hertogenbosch
+Development of a tool for optimal placement of automation in distribution
+networks, taking into consideration reliability and grid losses. Furthermore a
+cost/benefit analysis is part of the project work.
+This project work was graded with an 8.5.
+
+Eindhoven University of Technology
+Research Internship
+
+August 2013 - November 2013 (4 months)
+Eindhoven
+Development of a tool for optimal placement of automation in distribution
+networks, taking into consideration reliability and grid losses. Furthermore a
+cost/benefit analysis is part of the project work.
+
+Education
+Eindhoven University of Technology
+Master of Science (MSc), Sustainable Energy Technology · (2012 - 2014)
+
+Eindhoven University of Technology
+Bachelor of Science (BSc), Innovation Sciences · (2009 - 2012)
+
+Pius X College Bladel
+VWO - Gymnasium, Natuur & Gezondheid · (2003 - 2009)
+
+Contact
+www.linkedin.com/in/thomascastelijns (LinkedIn)
+
+Top skills
+Python
+Data Analysis
+Machine Learning
+
+Languages
+English (Professional Working)
+German (Elementary)
+Dutch (Native or Bilingual)
+
+Certifications
+Neural Networks and Deep Learning
+Improving Deep Neural Networks:
+Hyperparameter tuning,
+Regularization and Optimization
+Sequence Models
+Data Engineering Nanodegree
+Bayesian Methods for Machine
+Learning
+
+Publications
+Using particle swarm optimization
+for placement of DA in distribution
+networks
+
+
+linkedin-33
+
+Jan-Willem Blank
+Sr. Data Scientist at Interpolis
+The Randstad, Netherlands
+
+Summary
+
+As a data scientist I am responsible for strategic advise for business
+decisions. These fact based recommendations are based on
+all kinds of data-analyses, data-mining and machine learning
+techniques.
+
+My goal is to identify commercial opportunities and predict the future
+with the huge amount of data we have and that grows exponentially.
+My favorite tools / languages are:
+-R
+- Python
+- SAS
+- SPSS
+- SQL
+
+Experience
+Interpolis
+13 years 5 months
+
+Sr. Data Scientist
+
+June 2016 - Present (5 years)
+Tilburg Area, Netherlands
+As a sr. data scientist I am responsible for strategic advise for business
+decisions. These fact based recommendations are based on all kinds of dataanalyses, data-mining and machine learning techniques.
+
+Data Scientist
+
+April 2010 - May 2016 (6 years 2 months)
+Tilburg Area, Netherlands
+As a data scientist I am responsible for strategic advise for business decisions.
+These fact based recommendations are based on all kinds of data-analyses,
+data-mining and machine learning techniques.
+
+Database Marketeer
+
+January 2008 - March 2010 (2 years 3 months)
+Marketing analysis, predictive analytics (focus on acquisition, retention and
+customer value).
+
+T-Mobile Netherlands
+Database Marketing Analyst
+
+September 2004 - December 2007 (3 years 4 months)
+Marketing analysis, campaign management and standard reporting.
+
+Education
+Utrecht University
+Master's degree, Social Science · (2002 - 2004)
+
+University of Groningen
+Inspirerende Data Scientist · (2015 - 2016)
+
+Hogeschool Inholland / Inholland University of Applied Sciences
+Bachelor, Commerce & Economics · (1998 - 2002)
+
+Contact
+www.linkedin.com/in/jwblank
+(LinkedIn)
+www.janwillemblank.com
+(Personal)
+
+Top Skills
+Database Marketing
+Data Mining
+Customer Insight
+
+Languages
+Dutch
+English
+
+Certifications
+Vervolg Analytische Mogelijkheden
+IS Basis End User en Designer
+Getting Started with Python
+authorized by University of Michigan
+Machine Learning authorized by
+Stanford University
+Chordiant Marketing Director
+
+Publications
+Zo kun je jouw inbraakrisico
+voorspellen
+Inbraakmonitor Interpolis voorspelt
+dagelijks inbraakrisico per
+postcodegebied
+Big data voorspelt: in deze wijken is
+de kans op inbraak het grootst
+
+
+linkedin-34
+
+Rahul Shetty
+Lead Data Scientist at Leap
+The Randstad, Netherlands
+
+Summary
+As a data scientist, I develop, build, and execute data science
+solutions for optimizing processes across a range of domains,
+including the Internet-of-Things, the electricity grid, financial
+transactions, e-commerce, retail, as well as government and
+social services. Prior to my current roles in industry, I was an
+astrophysicist investigating the process of star formation in
+the interstellar medium. As a postdoctoral researcher, I used
+computational techniques to model the formation of stars.
+Additionally, I utilized various statistical tools to compare the
+modeling results with observational data. I have a keen interest in
+understanding large datasets via the application of statistical and
+machine learning methods, and in particular through hierarchical
+Bayesian methods.
+
+Experience
+Leap
+Lead Data Scientist
+
+September 2019 - Present (1 year 9 months)
+Utrecht Area, Netherlands
+
+Qualogy
+Senior Data Science Consultant
+
+August 2018 - September 2019 (1 year 2 months)
+
+Adyen
+Data Scientist
+
+2016 - July 2018 (2 years)
+Amsterdam Area, Netherlands
+Statistical analysis of payment data. Coordinate with merchants and account
+managers to understand transaction data in order to optimize payment
+authorizations, including minimizing fraud.
+
+Institute for Theoretical Astrophysics, Universität Heidelberg
+Postdoctoral Researcher
+2009 - 2016 (7 years)
+
+data analysis and visualization
+statistical modelling: linear & non-linear regression, Bayesian multi-level
+parameter estimation
+computational modelling: hydrodynamics, radiative transfer
+
+Harvard-Smithsonian Center for Astrophysics
+Postdoctoral Researcher
+
+September 2007 - September 2009 (2 years 1 month)
+Cambridge, MA, USA
+
+Education
+Cornell University
+Master's degree, A&S - Statistical Science · (2014 - 2015)
+
+University of Maryland
+PhD, astronomy · (2001 - 2007)
+
+University of Wisconsin-Madison
+Bachelor of Science (B.Sc.), Physics, Mathematics · (1997 - 2001)
+
+Contact
+www.linkedin.com/in/shettyrah
+(LinkedIn)
+
+Top Skills
+Data Analysis
+Science
+Machine Learning
+
+Languages
+English (Native or Bilingual)
+German (Limited Working)
+
+
+linkedin-35
+
+Léon Schipper
+Data Scientist at PGGM
+Baarn
+
+Experience
+PGGM
+Data Scientist
+
+October 2019 - Present (1 year 8 months)
+Zeist
+
+DAS
+Data Scientist
+
+April 2014 - September 2019 (5 years 6 months)
+Amsterdam Area, Netherlands
+As Data Scientist I am having a dual-role in two teams: Customer Intelligence
+and the Data Science Team. Main responsibilities:
+Customer Intelligence: Acquiring valuable business insights from data, and
+(proactively) provide management-recommendations based on these insights.
+Data Science Team: Research, development and implementation of Data
+Science applications in an agile team. Involved in entire process from dataengineering to implementation.
+Some of my main activities include:
+● Managing/coaching junior data scientists and analysts
+● Automate that what can be automated
+● Data analysis (Excel, R Markdown)
+● Developing and maintaining QlikView applications (both development and
+design)
+● Developing and implementing algorithms
+● Managing data-quality and improving data-availability
+
+Latenmonteren.nl
+Owner and founder of Latenmonteren.nl
+
+February 2011 - April 2014 (3 years 3 months)
+Groningen Area, Netherlands
+Latenmonteren.nl is a furniture assembly company and operates in the
+Netherlands. With over 7 years of experience, we offer an affordable,
+professional furniture assembly-service for both consumers and businesses.
+Activities: All day to day operations including:
+- Customer contact
+- Assembly of furniture (execution of orders)
+- Implementation of marketing strategy (e.g. SEO, SEA)
+- Website design/maintenance
+
+Kwantum
+Salesman at Furniture and Floor Department
+August 2005 - March 2014 (8 years 8 months)
+Assen
+
+Advising and supporting customers with any purchases/questions related to
+furniture and flooring.
+10-15 hours per week (from august 2013 - march 2014 +- 25 hours per week)
+
+Albert Heijn
+Merchandiser
+
+January 2005 - December 2006 (2 years)
+Assen
+5-10 hours per week
+
+Tuinland Assen
+Salesman at Pond Department
+
+April 2004 - December 2004 (9 months)
+Assen
+10-15 hours per week
+
+Education
+Rijksuniversiteit Groningen
+Master of Science (M.Sc.), Marketing Intelligence · (2012 - 2013)
+
+Rijksuniversiteit Groningen / University of Groningen
+Bachelor's degree, Bedrijfseconomie (Business Economics) · (2007 - 2012)
+
+Contact
+www.linkedin.com/in/leonschipper-94398043 (LinkedIn)
+
+Top Skills
+Data Analysis
+Machine Learning
+QlikView
+
+Languages
+English (Full Professional)
+German (Limited Working)
+Dutch (Native or Bilingual)
+
+Honors-Awards
+Nationale Marketing Award 2018
+
+
+linkedin-36
+
+Valentijn Lemkes
+Data scientist at Alliander
+Amsterdam
+
+Summary
+Current project:
+Currently working for Edmij as a data-analyst. Using python
+programming and analyses skills we predict the demand and supply
+on the energy market.
+Past experience:
+Maintaining a sub-surface network is difficult and expensive. During
+the internship at Evides, focused on predicting potential leaks on
+the basis of radar data, using GIS and machine learning python
+packages.
+At Alliander I got the chance to directly apply knowledge from the
+university in the field. With a diverse scrum team, the focus was on
+atomising repetitive manual work. The result, a tool that was directly
+implemented in the business which improved accuracy and improved
+the working flow.
+
+Experience
+Alliander
+Data scientist
+
+april 2020 - Present (1 year 2 months)
+the Netherlands
+
+Edmij B.V.
+Data-analyst
+
+december 2018 - april 2020 (1 year 5 months)
+Amstelveen
+
+Evides Waterbedrijf
+Intern GIS & Data Analysis
+
+april 2018 - december 2018 (9 months)
+Rotterdam Area, the Netherlands
+
+Alliander
+Data processing
+
+october 2016 - february 2018 (1 year 5 months)
+Worked in a scrum-team to automise manual GIS labour and refine the data.
+
+De AfspraakFabriek
+Salesman
+
+january 2016 - june 2016 (6 months)
+
+Geodan
+Stagiair
+
+october 2014 - january 2015 (4 months)
+Researched the implementation of the large-scale Key Register
+Topography of the Netherlands.
+
+WE Fashion
+Sales
+
+august 2014 - october 2014 (3 months)
+Salesman
+
+Montes B.V.
+Sales
+
+january 2011 - december 2012 (2 years)
+Salesman
+
+Education
+Technische Universiteit Delft & Universiteit Utrecht
+Geographical Information Management and Application · (2016 - 2018)
+
+Vrije Universiteit Amsterdam
+Bachelor of Science (BSc), Earth & Economics · (2012 - 2016)
+
+Lorentz Casimir Lyceum
+VWO · (2005 - 2012)
+
+Contact
+www.linkedin.com/in/valentijnlemkes (LinkedIn)
+
+Top skills 
+Python
+SQL
+GIS
+
+Languages
+English
+German
+
+
+linkedin-37
+
+Ming Zhang
+
+Data Scientist - Advanced Machine Learning and Deep Learning at
+Philips
+Eindhoven
+
+Summary
+I am a Data Scientist with 7+ years of research & project experience
+in IBM Research, IBM CDL and Philips Research. My focus is
+on customer modeling and automated precise marketing using
+classical machine learning, deep learning and big data. I have
+experience in analyzing free text, localization and machine log data
+in healthcare field, product review text in consumer electronics field
+and transaction, account, demographic, risk and unstructured data in
+banking field. My most familiar languages are Python, R and Java.
+Visit the link below to view Demos of my individual research works.
+
+Experience
+Philips
+Data Scientist - Advanced Machine Learning & Deep Learning
+September 2017 - Present (3 years 9 months)
+Eindhoven Area, Netherlands
+
+IBM China Development Lab (CDL)
+4 years
+
+Data Scientist
+
+June 2013 - June 2015 (2 years 1 month)
+Beijing City, China
+Focused on model design and implementation of customer preference
+modeling, personalized marketing, social media analysis and fraud detection in
+banking and telco industries.
+
+Big Data Intern Consultant
+
+January 2012 - June 2013 (1 year 6 months)
+Intern in Lab-Based Services in IBM China Development Lab as a Big Data
+Consultant, focusing on applications of Customer Analysis using Data Mining
+Models in Banking & Telco Area.
+
+Data Mining Intern
+July 2011 - January 2012 (7 months)
+Intern in IBM China Research Lab, hands on research on data-mining for
+recommendation(collaborative filtering) and parallel computing(hadoop).
+
+Education
+Eindhoven University of Technology
+Master's degree, Business Information Systems · (2015 - 2017)
+
+Contact
+www.linkedin.com/in/breakinen
+(LinkedIn)
+mingzhang.nl/ (Personal)
+
+Top Skills
+Python
+R
+Java
+
+Languages
+Dutch (Limited Working)
+Chinese (Native or Bilingual)
+English (Full Professional)
+
+Certifications
+Certified SAFe® 5 Scrum Master
+Big Data - Spark Fundamentals
+IBM Certified SOA Associate [2008]
+
+Honors-Awards
+IBM Outstanding Technical
+Achievement Award (OTAA)
+IBM Analytics Services 2015-Q1 Be
+Essential Hero award
+IBM IM Services 2014-Q4 Be
+Essential Hero award
+
+Publications
+A New Cluster Cloud Computing
+Server Platform for General Web
+Projects
+A New Approach of Self-adaptive
+Discretization to Enhance the Apriori
+Quantitative Association Rule Mining
+
+
+linkedin-38
+
+Emre Eryigit
+
+Senior Data Scientist at ASML
+Eindhoven
+
+Summary
+Data Science: Python, R, MATLAB, Hadoop, Spark, PyTorch,
+Tensorflow
+Operations Research: CPLEX, GUROBI MIP, Stochastic &
+Deterministic Programming
+
+Experience
+ASML
+1 year 9 months
+
+Senior Data Scientist
+
+January 2021 - Present (5 months)
+Veldhoven, North Brabant, Netherlands
+
+Data Scientist
+
+September 2019 - January 2021 (1 year 5 months)
+Eindhoven Area, Netherlands
+
+Isenberg School of Management, UMass Amherst
+Research Assistant
+September 2017 - September 2019 (2 years 1 month)
+Springfield, Massachusetts Area
+
+Endoks Energy
+3 years 6 months
+
+Lead Data Scientist
+
+September 2017 - September 2019 (2 years 1 month)
+Boston,US
+Working on Non-Intrusive Energy Disaggregation Problem
+Deep Learning, Hidden Markov Model
+
+Sr. Data Scientist
+
+April 2017 - September 2017 (6 months)
+Ankara, Turkey
+Electricity Fraud Detection for Electricity Distribution Companies
+
+Adapted Fuzzy C-means along with a Neural Network to learn the weights for
+Clustering.
+Scheduling a Manual Meter Reading for Electricity Distribution Companies
+Statistical Programming, Clustering, 0-1 Programming
+
+Data Scientist
+
+April 2016 - April 2017 (1 year 1 month)
+Ankara, Turkey
+Developed a Decision Support System for Short-term and Long-term Electricity
+Load Forecasting
+Deep Learning, Regression Tree, Signal Processing, Gradient Boosting
+Performance: 1-2 Mean Absolute Percentage Error
+
+Roketsan Missiles Inc.
+Business Intelligence Developer
+
+February 2014 - April 2016 (2 years 3 months)
+Ankara, Turkey
+
+EPRA Engineering Procurement Research Analyse
+Forecast Analyst
+August 2013 - February 2014 (7 months)
+
+Short-term, Mid-term and Long- term electricity load forecasting.
+
+Deloitte Turkey
+Intern
+
+March 2013 - June 2013 (4 months)
+Deloitte Ankara
+I planned thermal plants' 10 year production plan based on electricity price
+forecasting.
+
+TÜBİTAK Marmara Technopark
+Study on Renewable Energy (Wind)
+
+September 2012 - June 2013 (10 months)
+METU
+
+Petrol Ofisi
+Intern at Supply Chain Management Department
+August 2012 - September 2012 (2 months)
+Maslak, Turkey
+
+I worked on a facility location problem with routing.
+
+Akbank
+Transaction Banking Intern
+
+July 2012 - August 2012 (2 months)
+Sabancı Center, Levent, Istanbul
+
+Erdemir
+2 months
+
+Production Planning And Supply Chain Intern
+August 2011 - August 2011 (1 month)
+
+Production System and Development Intern
+July 2011 - July 2011 (1 month)
+
+Education
+University of Massachusetts Amherst
+Master's degree, Computer Science · (2017 - 2019)
+
+Orta Doğu Teknik Üniversitesi / Middle East Technical University
+Master's degree, Operations Research · (2015 - 2017)
+
+Orta Doğu Teknik Üniversitesi / Middle East Technical University
+Bachelor of Applied Science (B.A.Sc.), Industrial Engineering · (2008 - 2013)
+
+Contact
+www.linkedin.com/in/emreryigit
+(LinkedIn)
+
+Top Skills
+Machine Learning
+Deep Learning
+Python (Programming Language)
+
+Languages
+English (Full Professional)
+Turkish (Native or Bilingual)
+German (Limited Working)
+
+Certifications
+Neural Networks and Convolutional
+Neural Networks Essential Training
+Statistical and Computational Data
+Science
+
+Honors-Awards
+Top ranking at YAEM competition
+
+
+linkedin-39
+
+Kia Eisinga
+
+Sr Data Scientist at TomTom
+Amsterdam
+
+Experience
+
+TomTom
+Senior Data Scientist
+2 years 7 months
+October 2020 - Present (8 months)
+Amsterdam, North Holland, Netherlands
+Senior Data Scientist at the Data Unit
+
+Senior Data Scientist
+
+November 2018 - October 2020 (2 years)
+Amsterdam Area, Netherlands
+Senior Data Scientist in the PU Navigation Datalab
+
+ABN AMRO Bank N.V.
+2 years 1 month
+
+Data Scientist
+
+October 2016 - October 2018 (2 years 1 month)
+Amsterdam Area, Netherlands
+Data Scientist at the Data Innovation & Analytics (DIA) department
+
+Young IT Programme
+
+November 2016 - April 2018 (1 year 6 months)
+Amsterdam Area, Netherlands
+Participant of the Young IT programme and chair of the Young IT board
+
+Heijmans
+Data Science Intern
+
+December 2015 - July 2016 (8 months)
+Rosmalen, Netherlands
+Internship to write my master thesis. Data science project at Heijmans and
+Amsterdam Airport Schiphol. Build a model to predict runway allocation for
+flights to aid air traffic control. Mark thesis: 8 / 10.
+Thesis: http://arno.uvt.nl/show.cgi?fid=141291
+
+MAK Mentorship System
+Active committee member
+
+September 2012 - March 2015 (2 years 7 months)
+Tilburg Area, Netherlands
+The goal of MAK Mentorship System is to support prospective and current
+students of the Tilburg School of Economics and Management in their
+personal and academic development. Examples of activities are organising
+orientation days, introduction days and tutorships.
+I was part of several committees and mentored a group of 5 first-year Business
+Economics students who wanted to organise formal and informal activities for
+their peers.
+http://www.maktilburg.nl
+
+Education
+Tilburg University
+Master of Science (MSc), Data Science: Business and
+Governance · (2015 - 2016)
+
+Peking University
+Summer School, Big Data: Data Analytics for Business and
+Beyond · (2016 - 2016)
+
+Özyeğin Üniversitesi
+Erasmus exchange · (2014 - 2015)
+
+Tilburg University
+Bachelor of Science (BSc), Business Economics · (2011 - 2015)
+
+Contact
+www.linkedin.com/in/kiaeisinga
+(LinkedIn)
+
+Top Skills
+Data Science
+Python (Programming Language)
+
+Languages
+English (Native or Bilingual)
+Dutch (Native or Bilingual)
+
+Certifications
+Microsoft Certified: Azure Data
+Scientist Associate
+English A2 Higher Level (near-native
+speaker)
+Microsoft Certified: Azure
+Fundamentals
+
+
+linkedin-40
+
+Shalaleh Hillebrand
+Data Scientist at a.s.r. real estate
+The Randstad, Netherlands
+
+Experience
+a.s.r. real estate
+Data Scientist
+
+May 2021 - Present (1 month)
+Utrecht, Netherlands
+
+Ordina
+Data Scientist
+
+October 2019 - April 2021 (1 year 7 months)
+
+NWWI via Ordina
+Data Scientist
+
+November 2019 - August 2020 (10 months)
+Movares
+Adviseur Dynamica
+
+January 2017 - September 2019 (2 years 9 months)
+Utrecht Area, Netherlands
+Adviseur Dynamica
+
+Arup Nederland
+Analyst & Structural Engineer
+
+October 2013 - December 2016 (3 years 3 months)
+Amsterdam Area, Netherlands
+Groningen Earthquake Structural Upgrading
+
+Universiteit Utrecht
+Research assistant in Geodynamics
+2009 - 2013 (4 years)
+
+This research is part of the EUROCORES TOPOEUROPE.
+The aim of the project is to model the crust and the mantle of the Earth
+at Western Mediterranean region and to perform a fluid dynamic study to
+investigate the stress distribution on the surface and plate motion in the region.
+3D Numerical modelling and developing finite element code Sepran are the
+key element of this project.
+
+Mapna Boiler
+Steel Structure Designer
+
+June 2008 - June 2009 (1 year 1 month)
+Iran / Tehran
+– Designing the structures of HRSG boilers, Auxiliary boilers and stack for
+Combined Cycle Power Plants
+– Designing the foundation for different structures on the power plant sites
+– Preparing executive drawings and technical specifications of designed
+structures
+– Onsite supervision of construction progress
+– Preparing documents such as project description, cost lists and time
+schedule for the . project progress
+– Evaluating the sub-companies and the contract conditions
+
+Education
+University of Tehran
+Master of Science (M.Sc.), Earthquake Engineering · (2006 - 2009)
+
+University of Tehran
+Bachelor of Science (B.Sc.), Civil Engineering · (2002 - 2006)
+
+National Organization for Development of Exceptional Talents
+(Sampad)
+High School Diploma · (1999 - 2002)
+
+Contact
+www.linkedin.com/in/shalalehhillebrand-085ab819 (LinkedIn)
+
+Top Skills
+Earthquake Engineering
+Steel/Concrete structure design
+Numerical Modelling and Analysis
+
+Languages
+Persian (Native or Bilingual)
+Azerbaijani (Native or Bilingual)
+English (Full Professional)
+
+Certifications
+Time Series Analysis in Python
+Manipulating Time Series Data in
+Python
+
+PH125.6x: Data Science: Wrangling
+Regular Expression in Python
+Introduction to Natural Language
+Processing in Python
